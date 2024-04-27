@@ -3,8 +3,6 @@ title: Default Method
 draft: false
 tags:
   - Java
-  - Default-Method
-  - Backward-Campatibility
 ---
 # 배경
 해당 글에서는, Java의 Collection API가 시간을 거치면서 어떻게 발전해 왔는지 객체지향의 관점에서 살펴보고자 합니다. Collection API는 1998년에 만들어졌으며, List, Map 등 다양한 자료구조를 지원하기 위해 개발되었습니다. 시간이 흐르면서 프로그래밍 패러다임이 변화하게 되었고, 다양한 요구사항들을 Collection API에서 구현했어야 했습니다. 이 글에서는 1998년부터 2023년까지 Collection API 가 어떤식으로 새 버전을 잘 배포했는 지 설명하고자 합니다.
