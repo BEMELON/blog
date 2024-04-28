@@ -74,7 +74,7 @@ const config: QuartzConfig = {
       Plugin.HardLineBreaks(),
       Plugin.FrontMatter(),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [Plugin.RemoveDrafts(), Plugin.ExcaliDrawFilter()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
