@@ -13,7 +13,7 @@ jobs:
     if: ${{ github.repository == 'jackyzha0/quartz' }}
     strategy:
       matrix:
-        os: [windows-latest, macos-latest, ubuntu-latest]
+        os: [self-hosted, windows-latest, macos-latest, ubuntu-latest]
     runs-on: ${{ matrix.os }}
     permissions:
       contents: write
@@ -48,7 +48,7 @@ jobs:
 
   publish-tag:
     if: ${{ github.repository == 'jackyzha0/quartz' }}
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, ubuntu-latest]
     permissions:
       contents: write
     steps:
