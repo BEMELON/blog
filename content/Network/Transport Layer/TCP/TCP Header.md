@@ -5,7 +5,7 @@ tags:
 aliases:
 ---
 # TCP Header 
-![[assets/tcpHeader.light.png]]
+![[tcpHeader.light.png]]
 - Sequence/Acknowledgement : 신뢰성 있는 통신을 하기 위해 사용되는 영역
 - Receivew Window : [[Flow Control|흐름제어]] 를 하기 위해 사용되는 값 
 - Header lenth : `payload`를 제외한 데이터 길이의 값 
