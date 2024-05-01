@@ -21,7 +21,18 @@ tags:
 
 ## 정적 메소드를 이용해서 Backward Compatibility 를 유지하기
 대표적인 예시가 Collections 클래스입니다. Collections 클래스의 메소드들은 모두 정적 메소드였기 때문에 Backward Compatibility 를 준수하면서 기능의 요구사항을 만족시킬 수 있었습니다.
-![|620](https://i.imgur.com/u40XAAZ.png)
+``` mermaid
+graph TD
+  JDK("JDK Collections (Interface)")
+  Eclipse("Eclipse Collections")
+  Apache("Apache Collections")
+  Guava("Guava Collections")
+  
+  Eclipse -->|Implement|JDK
+  Apache -->|Implement| JDK
+  Guava -->|Implement| JDK
+
+```
 
 
 다만, 이러한 방법은 유지보수 측면에서 오히려 위험한 상황을 만들었습니다. 인터페이스가 없었기 때문에 다양한 구현체들이 각자만의 JDK Collection을 구현하게 되었고, 클라이언트는 구현체에 의존할 수 밖에 없었기 때문입니다.
