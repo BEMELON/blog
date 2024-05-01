@@ -1,5 +1,6 @@
 ---
 title: "{{title}}"
 draft: false
-tags:
+tags: 
+aliases:
 ---
