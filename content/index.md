@@ -11,3 +11,5 @@ tags:
 ### 운영 방식
 `Obsidian` 으로 게시글이 관리되며 [Quartz](https://quartz.jzhao.xyz/) 와 Github Pages를 통해 배포가 되고 있습니다. 개발 외적으로 저만의 생각을 기록하고 모으는 [공간](https;//blog.bemelon.me) 도 같이 운영 중에 있습니다.  
 
+*Obsidian Valut가 거대해짐에 따라 게시글을 분리 중에 있습니다. 
+
