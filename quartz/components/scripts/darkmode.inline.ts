@@ -38,3 +38,18 @@ document.addEventListener("nav", () => {
   colorSchemeMediaQuery.addEventListener("change", themeChange)
   window.addCleanup(() => colorSchemeMediaQuery.removeEventListener("change", themeChange))
 })
+
+document.addEventListener("themechange", (e) => {
+
+  // 모든 이미지 태그를 선택합니다.
+  var images = document.querySelectorAll('img');
+
+  // 테마에 따라 이미지 소스를 변경합니다.
+  images.forEach(function(img) {
+      if (e.detail.theme === 'dark') {
+          img.src = img.src.replace(/\.light\.png$/, '.dark.png'); // '.light.png'를 '.dark.png'로 변경
+      } else {
+          img.src = img.src.replace(/\.dark\.png$/, '.light.png'); // '.dark.png'를 '.light.png'로 변경
+      }
+  });
+});
