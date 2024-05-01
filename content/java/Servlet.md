@@ -12,8 +12,8 @@ tags:
 - 클라이언트가 어떠한 요청을 했을 때 그에 해당하는 결과를 동적으로 전송해주는 Java 프로그램
 
 ## Servlet 구조 
-- [[Java]] EE 에 대한 Servlet 스펙이 [Github](https://github.com/javaee/servlet-spec/blob/master/src/main/java/javax/servlet/Servlet.java) 에 공개되어 있다.
-``` Java
+- Java EE 에 대한 Servlet 스펙이 [Github](https://github.com/javaee/servlet-spec/blob/master/src/main/java/javax/servlet/Servlet.java) 에 공개되어 있다.
+``` java
 public interface Servlet {
 	public void init(ServletConfig config) throws ServletException;
 	public ServletConfig getServletConfig();
@@ -27,7 +27,7 @@ public interface Servlet {
 - 실제 실행에 관련된 함수는 `service` 함수인데, 그 주석은 다음과 같다. 
 	- 멀티쓰레드 형식으로 실행되기 때문에 주의해서 구현해야 한다는 점. 
 	- `ServeltResponse` 에 응답값을 담아 실제로 사용하는 것 같다. 
-``` Java
+``` java
 /**
  * Servlets typically run inside multithreaded servlet containers
  * that can handle multiple requests concurrently. Developers must 
@@ -46,7 +46,7 @@ public void service(ServletRequest req, ServletResponse res);
 ## HTTPServlet
  - 실제 HTTP 프로토콜의 요청을 처리하는 [HTTPServlet](https://github.com/javaee/servlet-spec/blob/master/src/main/java/javax/servlet/http/HttpServlet.java)이다.
 	 - 링크는 JAVA EE의 HTTP Servelt이다보니 구현이 엉망(?)이긴한데, 대략적으로 HTTP Method에 따라 적절한 함수를 호출시키는 것을 확인할 수 있다. 
-``` Java
+``` java
 public abstract class HttpServlet extends GenericServlet {
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp)
 	protected long getLastModified(HttpServletRequest req)
