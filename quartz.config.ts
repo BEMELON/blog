@@ -56,7 +56,7 @@ const config: QuartzConfig = {
       Plugin.FrontMatter(),
       Plugin.TableOfContents(),
       Plugin.CreatedModifiedDate({
-        priority: ["filesystem", "frontmatter", "git"],
+        priority: ["git"],
       }),
       Plugin.Latex({ renderEngine: "mathjax" }),
       Plugin.SyntaxHighlighting({
