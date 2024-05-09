@@ -73,7 +73,10 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options> | und
                     ),
                   )
                 }
+             
               }
+
+              console.log(source, fullFp, created, modified, published)
             }
 
             file.data.dates = {
