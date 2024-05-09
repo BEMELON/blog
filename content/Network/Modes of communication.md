@@ -43,4 +43,4 @@ aliases:
 
 
 # 출처
-- [[ISO:IEC 7498-2.pdf]]
+- [[ISO-IEC 7498-2.pdf]]
