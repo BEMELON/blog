@@ -57,7 +57,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options> | und
                 modified ||= file.data.frontmatter.updated as MaybeDate
                 modified ||= file.data.frontmatter["last-modified"] as MaybeDate
                 published ||= file.data.frontmatter.publishDate as MaybeDate
-                console.log("\tfrontmatter", created, modified, published)
+                console.log("\tfrontmatter", file.data.frontmatter)
               } else if (source === "git") {
                 if (!repo) {
                   // Get a reference to the main git repo.
@@ -68,7 +68,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options> | und
 
                 try {
                   modified ||= await repo.getFileLatestModifiedDateAsync(file.data.filePath!)
-                  console.log("\tgit", modified)
+                  console.log("\tgit", await repo.getFileLatestModifiedDateAsync(file.data.filePath!))
                 } catch {
                   console.log(
                     chalk.yellow(
