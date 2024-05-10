@@ -25,8 +25,8 @@ OSI 계층에서 가장 높은 계층을 담당하고 있다. 우리가 개발�
 ## Session Layer 
 네트워크에서의 세션은, 송신자와 수신자가 연결이 되어 데이터를 주고 받는 경우를 의미한다. 세션 계층은 이러한 세션을 구성, 관리(동기화, 상호작용 등), 종료하는 역할을 한다. 이 계층은 [[Modes of communication#연결 지향(`connection-mode`) communication|연결 지향 프로토콜]]에서 주로 사용한다.
 
-## Transport Layer
-전송 계층은 데이터 송수신에 있어 **신뢰성**(`reliable`) 있고, **효율적인**(`cost-effective`) 방법을 제공하는데 목적이 있고, 전송 계층에서 구현되는 모든 프로토콜은 송신자와 수신자 **양 끝단**(`end-to-end`)에 데이터를 전달한다.
+![[Transport Layer/Transport Layer#Transport Layer|Transport Layer]]
+
 
 ## Network Layer
 네트워크 계층은 데이터 송/수신에 있어 **네트워크 연결을 설정, 유지 및 종료할 수 있는 수단을 제공**한다. 이를 기반으로 전송 계층에서 네트워크와 독립적으로 응용 프로그램을 처리할 수 있도록 한다. 

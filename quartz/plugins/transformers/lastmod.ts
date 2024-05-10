@@ -44,20 +44,17 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options> | und
 
             const fp = file.data.filePath!
             const fullFp = path.isAbsolute(fp) ? fp : path.posix.join(file.cwd, fp)
-            console.log("Processing", fullFp)
             for (const source of opts.priority) {
               if (source === "filesystem") {
                 const st = await fs.promises.stat(fullFp)
                 created ||= st.birthtimeMs
                 modified ||= st.mtimeMs
-                console.log("\tfilesystem", st.birthtimeMs, st.mtimeMs)
               } else if (source === "frontmatter" && file.data.frontmatter) {
                 created ||= file.data.frontmatter.date as MaybeDate
                 modified ||= file.data.frontmatter.lastmod as MaybeDate
                 modified ||= file.data.frontmatter.updated as MaybeDate
                 modified ||= file.data.frontmatter["last-modified"] as MaybeDate
                 published ||= file.data.frontmatter.publishDate as MaybeDate
-                console.log("\tfrontmatter", file.data.frontmatter)
               } else if (source === "git") {
                 if (!repo) {
                   // Get a reference to the main git repo.
@@ -68,7 +65,6 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options> | und
 
                 try {
                   modified ||= await repo.getFileLatestModifiedDateAsync(file.data.filePath!)
-                  console.log("\tgit", await repo.getFileLatestModifiedDateAsync(file.data.filePath!))
                 } catch {
                   console.log(
                     chalk.yellow(
