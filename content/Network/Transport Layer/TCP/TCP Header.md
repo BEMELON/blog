@@ -23,8 +23,9 @@ aliases:
 - `Urg Data Pointer` : 긴급 데이터의 끝을 가리키는 포인터
 - `Options` : TCP 연결을 보다 효율적으로 처리하기 위해 사용되는 공간
 - `Payload` : 전송되는 실제 데이터
- 
 
+
+## 필드의 활용 사례들
 - [[TCP Reliable Data Transfer]] : `Sequence Number`와 `Acknowledgement Number`를 이용하여 TCP가 신뢰성 있는 데이터 전송을 보장하는 방법 
 - [[TCP 3-Way Handshaking]] : `TCP flags`를 이용해 서로 다른 노드 간 연결을 수립하는 방법
 - [[TCP 4-Way Handshaking]] : `TCP flags`를 이용해 서로 다른 노드 간 연결을 해제하는 방법 
