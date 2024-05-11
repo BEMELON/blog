@@ -1,6 +1,9 @@
 ---
 title: TCP Reliable Data Transfer
 draft: true
-tags: 
+tags:
+  - TCP
 aliases:
 ---
+# TCP Reliable Data Transfer 
+TCP는 
