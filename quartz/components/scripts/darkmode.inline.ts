@@ -9,6 +9,17 @@ const emitThemeChangeEvent = (theme: "light" | "dark") => {
   document.dispatchEvent(event)
 }
 
+const convertImage = (theme: "light" | "dark") => {
+  const images = document.querySelectorAll('img');
+  images.forEach(function(img) {
+      if (theme === 'dark') {
+          img.src = img.src.replace(/\.light\.png$/, '.dark.png');
+      } else {
+          img.src = img.src.replace(/\.dark\.png$/, '.light.png');
+      }
+  });
+}
+
 document.addEventListener("nav", () => {
   const switchTheme = (e: Event) => {
     const newTheme = (e.target as HTMLInputElement)?.checked ? "dark" : "light"
@@ -31,6 +42,9 @@ document.addEventListener("nav", () => {
   window.addCleanup(() => toggleSwitch.removeEventListener("change", switchTheme))
   if (currentTheme === "dark") {
     toggleSwitch.checked = true
+    convertImage("dark")
+  } else {
+    convertImage("light")
   }
 
   // Listen for changes in prefers-color-scheme
@@ -40,16 +54,6 @@ document.addEventListener("nav", () => {
 })
 
 document.addEventListener("themechange", (e) => {
-
-  // 모든 이미지 태그를 선택합니다.
-  var images = document.querySelectorAll('img');
-
-  // 테마에 따라 이미지 소스를 변경합니다.
-  images.forEach(function(img) {
-      if (e.detail.theme === 'dark') {
-          img.src = img.src.replace(/\.light\.png$/, '.dark.png'); // '.light.png'를 '.dark.png'로 변경
-      } else {
-          img.src = img.src.replace(/\.dark\.png$/, '.light.png'); // '.dark.png'를 '.light.png'로 변경
-      }
-  });
+  convertImage(e.detail.theme)
 });
+
