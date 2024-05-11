@@ -20,4 +20,4 @@ aliases:
 ![[assets/multiplexing.excalidraw.light.png]]
  
 ## 프로토콜의 종류 
-- [[TCP]] : 대표적인 [[../Modes of communication#연결 지향(`connection-mode`) communication|연결 지향 프로토콜]]
+- [[TCP/TCP]] : 대표적인 [[../Modes of communication#연결 지향(`connection-mode`) communication|연결 지향 프로토콜]]
