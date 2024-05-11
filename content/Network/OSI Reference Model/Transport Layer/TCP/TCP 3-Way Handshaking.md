@@ -4,6 +4,7 @@ draft: false
 tags:
   - TCP
 aliases:
+  - 3-Way Handshaking
 ---
 # TCP 3-Way Handshaking 
 TCP는 [[../../Modes of communication#연결 지향(`connection-mode`) communication|연결 지향 프로토콜]]의 종류이기 때문에 연결 수립 과정이 필요하다. TCP는 이 과정에서 송신자와 수신자 간의 3번의 통신을 통하여 연결을 수립하게 된다. TCP 자체는 매우 신뢰성 있는 프로토콜이지만, 이는 연결이 수립된 이후에만 적용된다. 즉, **초기 연결을 수립하는 과정에서는 신뢰성을 보장할 수 없다**.
