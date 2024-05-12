@@ -199,6 +199,17 @@ ACK = true ^3ajtsQrm
 
 Host B는 데이터 송신 불가 ^4P56R3O4
 
+Spare Room ^hEZW8Pmh
+
+TCP data
+in BUffer ^04FXbXcm
+
+Receive Window (rwnd) ^8GBVRqz4
+
+Receive Buffer ^Rts40e5k
+
+처리량 ^BRCPOInd
+
 %%
 # Drawing
 ```json
@@ -209,8 +220,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 27,
-			"versionNonce": 1488504689,
+			"version": 28,
+			"versionNonce": 295319249,
 			"isDeleted": false,
 			"id": "zlrD28qv8GKs7XkZE6ouC",
 			"fillStyle": "cross-hatch",
@@ -230,14 +241,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520275,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 65,
-			"versionNonce": 1101947935,
+			"version": 66,
+			"versionNonce": 359013055,
 			"isDeleted": false,
 			"id": "bwK4_KJqhMA6qq5CLGeDB",
 			"fillStyle": "solid",
@@ -259,7 +270,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520275,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -280,8 +291,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 18,
-			"versionNonce": 1106293073,
+			"version": 19,
+			"versionNonce": 1873622193,
 			"isDeleted": false,
 			"id": "8gH1vgfM",
 			"fillStyle": "solid",
@@ -301,7 +312,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520275,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -316,8 +327,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 74,
-			"versionNonce": 397051967,
+			"version": 75,
+			"versionNonce": 343042783,
 			"isDeleted": false,
 			"id": "uDxPwCAn1C92wdnKg_vAS",
 			"fillStyle": "solid",
@@ -339,7 +350,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520275,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -360,8 +371,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 23,
-			"versionNonce": 1951424305,
+			"version": 24,
+			"versionNonce": 1919252113,
 			"isDeleted": false,
 			"id": "KLnpZu5W",
 			"fillStyle": "solid",
@@ -381,7 +392,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520275,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -396,8 +407,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 106,
-			"versionNonce": 2127374431,
+			"version": 107,
+			"versionNonce": 1774171903,
 			"isDeleted": false,
 			"id": "L-U2ZCkKw08tn-Qm2nesh",
 			"fillStyle": "solid",
@@ -419,7 +430,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520275,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -444,8 +455,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 13,
-			"versionNonce": 2118078737,
+			"version": 14,
+			"versionNonce": 1551531121,
 			"isDeleted": false,
 			"id": "jwiMaloZ",
 			"fillStyle": "solid",
@@ -465,7 +476,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520275,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -480,8 +491,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 49,
-			"versionNonce": 82232447,
+			"version": 50,
+			"versionNonce": 466517791,
 			"isDeleted": false,
 			"id": "wrUtJFXve3udnoaiofsrd",
 			"fillStyle": "solid",
@@ -503,7 +514,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520275,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -528,8 +539,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 12,
-			"versionNonce": 892667633,
+			"version": 13,
+			"versionNonce": 766756433,
 			"isDeleted": false,
 			"id": "kJxRkk9t",
 			"fillStyle": "solid",
@@ -549,7 +560,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520275,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -564,8 +575,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 47,
-			"versionNonce": 699915423,
+			"version": 48,
+			"versionNonce": 219104063,
 			"isDeleted": false,
 			"id": "IcdGkOFQ4GJzZEj4nGf4P",
 			"fillStyle": "solid",
@@ -596,14 +607,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715430520275,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 73,
-			"versionNonce": 1404633297,
+			"version": 74,
+			"versionNonce": 15258673,
 			"isDeleted": false,
 			"id": "bM58KFgmm_pwbapDdqboA",
 			"fillStyle": "solid",
@@ -625,14 +636,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1715430520275,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 25,
-			"versionNonce": 552661183,
+			"version": 26,
+			"versionNonce": 2111996767,
 			"isDeleted": false,
 			"id": "MNCkqF2B",
 			"fillStyle": "solid",
@@ -652,7 +663,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -667,8 +678,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 33,
-			"versionNonce": 1466089137,
+			"version": 34,
+			"versionNonce": 704718353,
 			"isDeleted": false,
 			"id": "te7iqpNfX6OTFDhwFl5md",
 			"fillStyle": "solid",
@@ -695,14 +706,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "WDTShalJ"
 				}
 			],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 22,
-			"versionNonce": 1412595935,
+			"version": 23,
+			"versionNonce": 1318633343,
 			"isDeleted": false,
 			"id": "WDTShalJ",
 			"fillStyle": "solid",
@@ -722,7 +733,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -737,8 +748,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 40,
-			"versionNonce": 517587089,
+			"version": 41,
+			"versionNonce": 334773233,
 			"isDeleted": false,
 			"id": "433gAFE337zVRzoR1DiHS",
 			"fillStyle": "solid",
@@ -765,14 +776,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "0aSub0Yk"
 				}
 			],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 23,
-			"versionNonce": 621612287,
+			"version": 24,
+			"versionNonce": 24278943,
 			"isDeleted": false,
 			"id": "0aSub0Yk",
 			"fillStyle": "solid",
@@ -792,7 +803,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -807,8 +818,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 43,
-			"versionNonce": 1205175921,
+			"version": 44,
+			"versionNonce": 1590269393,
 			"isDeleted": false,
 			"id": "CMVBB1TAbFOxMGtK9UmLh",
 			"fillStyle": "solid",
@@ -835,14 +846,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "GCw8rZ9W"
 				}
 			],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 20,
-			"versionNonce": 1862341919,
+			"version": 21,
+			"versionNonce": 2090871743,
 			"isDeleted": false,
 			"id": "GCw8rZ9W",
 			"fillStyle": "solid",
@@ -862,7 +873,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -877,8 +888,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 31,
-			"versionNonce": 1293783121,
+			"version": 32,
+			"versionNonce": 1033417649,
 			"isDeleted": false,
 			"id": "SrQF8Sg2QDecp8C18gbl5",
 			"fillStyle": "solid",
@@ -905,14 +916,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "TB1McupP"
 				}
 			],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 32,
-			"versionNonce": 1233066303,
+			"version": 33,
+			"versionNonce": 205675487,
 			"isDeleted": false,
 			"id": "TB1McupP",
 			"fillStyle": "solid",
@@ -932,7 +943,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -947,8 +958,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 27,
-			"versionNonce": 1686724145,
+			"version": 28,
+			"versionNonce": 344528273,
 			"isDeleted": false,
 			"id": "tBfyJgTt7sgaB3UIgYmhx",
 			"fillStyle": "solid",
@@ -975,14 +986,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "6JvfQB5O"
 				}
 			],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 20,
-			"versionNonce": 166173023,
+			"version": 21,
+			"versionNonce": 610895871,
 			"isDeleted": false,
 			"id": "6JvfQB5O",
 			"fillStyle": "solid",
@@ -1002,7 +1013,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1017,8 +1028,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 24,
-			"versionNonce": 486567953,
+			"version": 25,
+			"versionNonce": 1456618353,
 			"isDeleted": false,
 			"id": "Kdz53xLHXEaE8iBR8tW8p",
 			"fillStyle": "solid",
@@ -1045,14 +1056,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "xRL4NNAK"
 				}
 			],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 26,
-			"versionNonce": 93001087,
+			"version": 27,
+			"versionNonce": 1662398495,
 			"isDeleted": false,
 			"id": "xRL4NNAK",
 			"fillStyle": "solid",
@@ -1072,7 +1083,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1087,8 +1098,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 24,
-			"versionNonce": 1014646257,
+			"version": 25,
+			"versionNonce": 616277329,
 			"isDeleted": false,
 			"id": "kYVgUadhrtcorNSBk86j_",
 			"fillStyle": "solid",
@@ -1115,14 +1126,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "sLqg4nXC"
 				}
 			],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 26,
-			"versionNonce": 329911711,
+			"version": 27,
+			"versionNonce": 1379456063,
 			"isDeleted": false,
 			"id": "sLqg4nXC",
 			"fillStyle": "solid",
@@ -1142,7 +1153,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1157,8 +1168,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 26,
-			"versionNonce": 1576951761,
+			"version": 27,
+			"versionNonce": 698143537,
 			"isDeleted": false,
 			"id": "_qUhfAfEtUA3W38zSOUxk",
 			"fillStyle": "solid",
@@ -1180,7 +1191,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1201,8 +1212,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 50,
-			"versionNonce": 1333068223,
+			"version": 51,
+			"versionNonce": 1773270111,
 			"isDeleted": false,
 			"id": "5TMuKWiiMwqdPOqCyEoUo",
 			"fillStyle": "solid",
@@ -1224,7 +1235,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1245,8 +1256,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 35,
-			"versionNonce": 1336163761,
+			"version": 36,
+			"versionNonce": 970802449,
 			"isDeleted": false,
 			"id": "OfnswhhI",
 			"fillStyle": "solid",
@@ -1266,7 +1277,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1281,8 +1292,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 59,
-			"versionNonce": 437023199,
+			"version": 60,
+			"versionNonce": 1364332671,
 			"isDeleted": false,
 			"id": "LZ4NcTKV",
 			"fillStyle": "solid",
@@ -1302,7 +1313,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1317,8 +1328,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 31,
-			"versionNonce": 814964625,
+			"version": 32,
+			"versionNonce": 821328625,
 			"isDeleted": false,
 			"id": "8k3gPiSiiPqZpeZzO8Uce",
 			"fillStyle": "solid",
@@ -1345,7 +1356,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "efvxN0wJ"
 				}
 			],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1366,8 +1377,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 19,
-			"versionNonce": 1551949311,
+			"version": 20,
+			"versionNonce": 1658431647,
 			"isDeleted": false,
 			"id": "efvxN0wJ",
 			"fillStyle": "solid",
@@ -1387,7 +1398,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1402,8 +1413,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 138,
-			"versionNonce": 1325614449,
+			"version": 139,
+			"versionNonce": 258602193,
 			"isDeleted": false,
 			"id": "Ihp62WaD69ywKu-O6cUQi",
 			"fillStyle": "solid",
@@ -1423,14 +1434,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 119,
-			"versionNonce": 164808223,
+			"version": 120,
+			"versionNonce": 1811496127,
 			"isDeleted": false,
 			"id": "oiE7REAd",
 			"fillStyle": "solid",
@@ -1450,7 +1461,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -1465,8 +1476,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 134,
-			"versionNonce": 1178300241,
+			"version": 135,
+			"versionNonce": 1490367153,
 			"isDeleted": false,
 			"id": "4wqNw0jC5HbPIyl1bayZ2",
 			"fillStyle": "solid",
@@ -1491,14 +1502,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "dOA5EYL9"
 				}
 			],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 131,
-			"versionNonce": 1626516031,
+			"version": 132,
+			"versionNonce": 810634463,
 			"isDeleted": false,
 			"id": "dOA5EYL9",
 			"fillStyle": "solid",
@@ -1518,7 +1529,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1533,8 +1544,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 103,
-			"versionNonce": 1553161521,
+			"version": 104,
+			"versionNonce": 836613265,
 			"isDeleted": false,
 			"id": "bHni2ys29qMSv4k2l16Ze",
 			"fillStyle": "solid",
@@ -1559,14 +1570,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "Ihd1McNF"
 				}
 			],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 124,
-			"versionNonce": 1858144863,
+			"version": 125,
+			"versionNonce": 728914175,
 			"isDeleted": false,
 			"id": "Ihd1McNF",
 			"fillStyle": "solid",
@@ -1586,7 +1597,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1601,8 +1612,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 215,
-			"versionNonce": 561155857,
+			"version": 216,
+			"versionNonce": 1044052593,
 			"isDeleted": false,
 			"id": "c7XprvJZlm1u99jIp5JUk",
 			"fillStyle": "solid",
@@ -1627,14 +1638,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "nqOJG8Eg"
 				}
 			],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 252,
-			"versionNonce": 1343121023,
+			"version": 253,
+			"versionNonce": 316465439,
 			"isDeleted": false,
 			"id": "nqOJG8Eg",
 			"fillStyle": "solid",
@@ -1654,7 +1665,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1669,8 +1680,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 209,
-			"versionNonce": 1263568113,
+			"version": 210,
+			"versionNonce": 1052017745,
 			"isDeleted": false,
 			"id": "XRaJipFklcNI5_pcy0cAt",
 			"fillStyle": "solid",
@@ -1695,14 +1706,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "UadzMi3B"
 				}
 			],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 244,
-			"versionNonce": 865812127,
+			"version": 245,
+			"versionNonce": 402744639,
 			"isDeleted": false,
 			"id": "UadzMi3B",
 			"fillStyle": "solid",
@@ -1722,7 +1733,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1737,8 +1748,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 212,
-			"versionNonce": 1437908689,
+			"version": 213,
+			"versionNonce": 1864487473,
 			"isDeleted": false,
 			"id": "bLd7yp6wPVJ_b-PkwlBAm",
 			"fillStyle": "solid",
@@ -1763,14 +1774,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "JIWONosn"
 				}
 			],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 271,
-			"versionNonce": 471339711,
+			"version": 272,
+			"versionNonce": 1782605151,
 			"isDeleted": false,
 			"id": "JIWONosn",
 			"fillStyle": "solid",
@@ -1790,7 +1801,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1805,8 +1816,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 180,
-			"versionNonce": 1597422769,
+			"version": 181,
+			"versionNonce": 610952209,
 			"isDeleted": false,
 			"id": "UJyT6TnEJnz_t_Nu6A-jt",
 			"fillStyle": "solid",
@@ -1831,14 +1842,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "lvLTBPF0"
 				}
 			],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 214,
-			"versionNonce": 1646617311,
+			"version": 215,
+			"versionNonce": 2028626303,
 			"isDeleted": false,
 			"id": "lvLTBPF0",
 			"fillStyle": "solid",
@@ -1858,7 +1869,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1873,8 +1884,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 175,
-			"versionNonce": 1199439505,
+			"version": 176,
+			"versionNonce": 713406961,
 			"isDeleted": false,
 			"id": "jMuBOD6DU_jNJfimBf_z6",
 			"fillStyle": "solid",
@@ -1899,14 +1910,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "X17vYCpj"
 				}
 			],
-			"updated": 1715430520276,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 215,
-			"versionNonce": 1985195775,
+			"version": 216,
+			"versionNonce": 1967118751,
 			"isDeleted": false,
 			"id": "X17vYCpj",
 			"fillStyle": "solid",
@@ -1926,7 +1937,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -1941,8 +1952,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 193,
-			"versionNonce": 222430321,
+			"version": 194,
+			"versionNonce": 1652249553,
 			"isDeleted": false,
 			"id": "xN9moWeZOpCSDQYrouGTE",
 			"fillStyle": "solid",
@@ -1967,14 +1978,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "BU6tqiW9"
 				}
 			],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 251,
-			"versionNonce": 1663268639,
+			"version": 252,
+			"versionNonce": 342969791,
 			"isDeleted": false,
 			"id": "BU6tqiW9",
 			"fillStyle": "solid",
@@ -1994,7 +2005,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2009,8 +2020,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 382,
-			"versionNonce": 1816809041,
+			"version": 383,
+			"versionNonce": 543338929,
 			"isDeleted": false,
 			"id": "wEN8mncUhxreajnkuk5Xk",
 			"fillStyle": "solid",
@@ -2035,14 +2046,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "joB1IRdh"
 				}
 			],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 344,
-			"versionNonce": 252001087,
+			"version": 345,
+			"versionNonce": 295648735,
 			"isDeleted": false,
 			"id": "joB1IRdh",
 			"fillStyle": "solid",
@@ -2062,7 +2073,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2077,8 +2088,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 375,
-			"versionNonce": 997088305,
+			"version": 376,
+			"versionNonce": 1231246225,
 			"isDeleted": false,
 			"id": "huyciaVkull0ae1bplZVx",
 			"fillStyle": "solid",
@@ -2103,14 +2114,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "YGF1HRsN"
 				}
 			],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 354,
-			"versionNonce": 1046051679,
+			"version": 355,
+			"versionNonce": 1876568575,
 			"isDeleted": false,
 			"id": "YGF1HRsN",
 			"fillStyle": "solid",
@@ -2130,7 +2141,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2145,8 +2156,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 193,
-			"versionNonce": 177581585,
+			"version": 194,
+			"versionNonce": 833927537,
 			"isDeleted": false,
 			"id": "hRrbGkKKWu-8UIWNqNEX1",
 			"fillStyle": "solid",
@@ -2171,14 +2182,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "oMqMgnpp"
 				}
 			],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 292,
-			"versionNonce": 1433450367,
+			"version": 293,
+			"versionNonce": 2082640415,
 			"isDeleted": false,
 			"id": "oMqMgnpp",
 			"fillStyle": "solid",
@@ -2198,7 +2209,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2213,8 +2224,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 78,
-			"versionNonce": 12043249,
+			"version": 79,
+			"versionNonce": 983458641,
 			"isDeleted": false,
 			"id": "DGhus4_IfO1zDucMH5Ckv",
 			"fillStyle": "solid",
@@ -2236,14 +2247,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 119,
-			"versionNonce": 1519087519,
+			"version": 120,
+			"versionNonce": 258537023,
 			"isDeleted": false,
 			"id": "RlGymWZT",
 			"fillStyle": "solid",
@@ -2263,7 +2274,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 33.33333333333332,
@@ -2278,8 +2289,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "line",
-			"version": 40,
-			"versionNonce": 2044468689,
+			"version": 41,
+			"versionNonce": 813158705,
 			"isDeleted": false,
 			"id": "ay5bqz3_CEp0ljgTtG-vM",
 			"fillStyle": "solid",
@@ -2299,7 +2310,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2324,8 +2335,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 29,
-			"versionNonce": 937042879,
+			"version": 30,
+			"versionNonce": 277730911,
 			"isDeleted": false,
 			"id": "HYRc9rGb",
 			"fillStyle": "solid",
@@ -2345,7 +2356,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 32.08733093176637,
@@ -2360,8 +2371,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 54,
-			"versionNonce": 1696218033,
+			"version": 55,
+			"versionNonce": 1755874065,
 			"isDeleted": false,
 			"id": "n19u3CnFpwNor0QTlVObe",
 			"fillStyle": "solid",
@@ -2383,14 +2394,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 141,
-			"versionNonce": 1031623647,
+			"version": 142,
+			"versionNonce": 912372351,
 			"isDeleted": false,
 			"id": "2fLwAImA",
 			"fillStyle": "solid",
@@ -2410,7 +2421,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 33.33333333333332,
@@ -2425,8 +2436,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 109,
-			"versionNonce": 1654234513,
+			"version": 110,
+			"versionNonce": 531101937,
 			"isDeleted": false,
 			"id": "g8xhaCLFeH74sMN-zgc0E",
 			"fillStyle": "solid",
@@ -2451,14 +2462,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "e5X99Itj"
 				}
 			],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 103,
-			"versionNonce": 1669693439,
+			"version": 104,
+			"versionNonce": 161811103,
 			"isDeleted": false,
 			"id": "e5X99Itj",
 			"fillStyle": "solid",
@@ -2478,7 +2489,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2493,8 +2504,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 124,
-			"versionNonce": 563200881,
+			"version": 125,
+			"versionNonce": 385725137,
 			"isDeleted": false,
 			"id": "H7NY1MfLr_bhQ7uAHpINE",
 			"fillStyle": "solid",
@@ -2519,14 +2530,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "KOFthMiB"
 				}
 			],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 124,
-			"versionNonce": 1274226719,
+			"version": 125,
+			"versionNonce": 654859967,
 			"isDeleted": false,
 			"id": "KOFthMiB",
 			"fillStyle": "solid",
@@ -2546,7 +2557,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2561,8 +2572,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 102,
-			"versionNonce": 2118790481,
+			"version": 103,
+			"versionNonce": 1933652145,
 			"isDeleted": false,
 			"id": "KB1SgbZZ",
 			"fillStyle": "cross-hatch",
@@ -2582,7 +2593,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2597,8 +2608,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 104,
-			"versionNonce": 79088703,
+			"version": 105,
+			"versionNonce": 1093414623,
 			"isDeleted": false,
 			"id": "XiAmDsl8A4eIbg_Xs8woe",
 			"fillStyle": "solid",
@@ -2620,14 +2631,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 151,
-			"versionNonce": 1612340017,
+			"version": 152,
+			"versionNonce": 1511649937,
 			"isDeleted": false,
 			"id": "1Co2Znjl",
 			"fillStyle": "solid",
@@ -2647,7 +2658,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 33.33333333333332,
@@ -2662,8 +2673,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 138,
-			"versionNonce": 162589791,
+			"version": 139,
+			"versionNonce": 1654717183,
 			"isDeleted": false,
 			"id": "xnNEPttnxftnVrAh_W5Mj",
 			"fillStyle": "solid",
@@ -2688,14 +2699,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "Rnw5XF2C"
 				}
 			],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 135,
-			"versionNonce": 1466551569,
+			"version": 136,
+			"versionNonce": 1346336881,
 			"isDeleted": false,
 			"id": "Rnw5XF2C",
 			"fillStyle": "solid",
@@ -2715,7 +2726,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2730,8 +2741,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 107,
-			"versionNonce": 112330879,
+			"version": 108,
+			"versionNonce": 1877426975,
 			"isDeleted": false,
 			"id": "QiG2mQ2zCruuJLkBenV9g",
 			"fillStyle": "solid",
@@ -2756,14 +2767,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "i9oPCspy"
 				}
 			],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 128,
-			"versionNonce": 2075132657,
+			"version": 129,
+			"versionNonce": 1467564625,
 			"isDeleted": false,
 			"id": "i9oPCspy",
 			"fillStyle": "solid",
@@ -2783,7 +2794,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2798,8 +2809,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 153,
-			"versionNonce": 1501208735,
+			"version": 154,
+			"versionNonce": 1768916799,
 			"isDeleted": false,
 			"id": "jJnJYcqr",
 			"fillStyle": "solid",
@@ -2819,7 +2830,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 33.33333333333332,
@@ -2834,8 +2845,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 218,
-			"versionNonce": 158629073,
+			"version": 219,
+			"versionNonce": 1285476401,
 			"isDeleted": false,
 			"id": "dbGgyahB2qF6a3VRXu9TS",
 			"fillStyle": "solid",
@@ -2860,14 +2871,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "T9KgSMXW"
 				}
 			],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 309,
-			"versionNonce": 1404777663,
+			"version": 310,
+			"versionNonce": 1838827359,
 			"isDeleted": false,
 			"id": "T9KgSMXW",
 			"fillStyle": "solid",
@@ -2887,7 +2898,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2902,8 +2913,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "line",
-			"version": 47,
-			"versionNonce": 1078901425,
+			"version": 48,
+			"versionNonce": 93823505,
 			"isDeleted": false,
 			"id": "h-fjR6sc_GA90bj2idISf",
 			"fillStyle": "solid",
@@ -2923,7 +2934,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2948,8 +2959,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 36,
-			"versionNonce": 1024738527,
+			"version": 37,
+			"versionNonce": 2058879871,
 			"isDeleted": false,
 			"id": "9YqCsuGg",
 			"fillStyle": "solid",
@@ -2969,7 +2980,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 32.08733093176637,
@@ -2984,8 +2995,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 225,
-			"versionNonce": 15088785,
+			"version": 226,
+			"versionNonce": 794507249,
 			"isDeleted": false,
 			"id": "2iYzpJpX5MzV68KXWT5Nl",
 			"fillStyle": "solid",
@@ -3007,14 +3018,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 236,
-			"versionNonce": 353784063,
+			"version": 237,
+			"versionNonce": 1896430495,
 			"isDeleted": false,
 			"id": "OY7HZwf7",
 			"fillStyle": "solid",
@@ -3034,7 +3045,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3049,8 +3060,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 156,
-			"versionNonce": 720536177,
+			"version": 157,
+			"versionNonce": 1810960849,
 			"isDeleted": false,
 			"id": "HiFvMRAa3rHnbWfdltiGG",
 			"fillStyle": "solid",
@@ -3077,14 +3088,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "vMeMwWKD"
 				}
 			],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 225,
-			"versionNonce": 356636959,
+			"version": 226,
+			"versionNonce": 1421766591,
 			"isDeleted": false,
 			"id": "vMeMwWKD",
 			"fillStyle": "solid",
@@ -3104,7 +3115,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3119,8 +3130,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 159,
-			"versionNonce": 993725521,
+			"version": 160,
+			"versionNonce": 812691377,
 			"isDeleted": false,
 			"id": "jS4jnYC7o-bfmTF2qeNwa",
 			"fillStyle": "solid",
@@ -3147,14 +3158,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "WCts8mvl"
 				}
 			],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 254,
-			"versionNonce": 1929862463,
+			"version": 255,
+			"versionNonce": 1341661151,
 			"isDeleted": false,
 			"id": "WCts8mvl",
 			"fillStyle": "solid",
@@ -3174,7 +3185,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3189,8 +3200,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 179,
-			"versionNonce": 697784881,
+			"version": 180,
+			"versionNonce": 1661047185,
 			"isDeleted": false,
 			"id": "FKO1SQVMQPOwvi4Wg-3T-",
 			"fillStyle": "solid",
@@ -3212,14 +3223,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 161,
-			"versionNonce": 1640455519,
+			"version": 162,
+			"versionNonce": 1959185407,
 			"isDeleted": false,
 			"id": "swdt4PXa",
 			"fillStyle": "solid",
@@ -3239,7 +3250,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3254,8 +3265,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 118,
-			"versionNonce": 116321297,
+			"version": 119,
+			"versionNonce": 953890673,
 			"isDeleted": false,
 			"id": "25wXg_fnH96PtU5vi368O",
 			"fillStyle": "solid",
@@ -3282,14 +3293,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"type": "text"
 				}
 			],
-			"updated": 1715430520277,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 182,
-			"versionNonce": 1423071615,
+			"version": 183,
+			"versionNonce": 1059779615,
 			"isDeleted": false,
 			"id": "ZvxE2OOr",
 			"fillStyle": "solid",
@@ -3309,7 +3320,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3324,8 +3335,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 121,
-			"versionNonce": 1530479089,
+			"version": 122,
+			"versionNonce": 1413816657,
 			"isDeleted": false,
 			"id": "U0i9LFRQC6CsPgcvx2hXh",
 			"fillStyle": "solid",
@@ -3352,14 +3363,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"type": "text"
 				}
 			],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 211,
-			"versionNonce": 23646623,
+			"version": 212,
+			"versionNonce": 1461000255,
 			"isDeleted": false,
 			"id": "eOkGSbE7",
 			"fillStyle": "solid",
@@ -3379,7 +3390,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -3394,8 +3405,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "ellipse",
-			"version": 108,
-			"versionNonce": 1132321745,
+			"version": 109,
+			"versionNonce": 580308785,
 			"isDeleted": false,
 			"id": "84T26UkjO0uFyCDzaiTEV",
 			"fillStyle": "solid",
@@ -3422,14 +3433,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 88,
-			"versionNonce": 549143999,
+			"version": 89,
+			"versionNonce": 308656223,
 			"isDeleted": false,
 			"id": "2ACbUx6S3wQ-9RmfmziDR",
 			"fillStyle": "solid",
@@ -3451,14 +3462,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 93,
-			"versionNonce": 1339308465,
+			"version": 94,
+			"versionNonce": 2050474257,
 			"isDeleted": false,
 			"id": "eDiJP2onQ_R35Oyr5FveK",
 			"fillStyle": "solid",
@@ -3485,14 +3496,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 113,
-			"versionNonce": 1911174623,
+			"version": 114,
+			"versionNonce": 921523327,
 			"isDeleted": false,
 			"id": "4vhavAHEKnSWwNlGmKloL",
 			"fillStyle": "solid",
@@ -3519,14 +3530,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 116,
-			"versionNonce": 560192401,
+			"version": 117,
+			"versionNonce": 2023716593,
 			"isDeleted": false,
 			"id": "2nByBcLzHgp4RMK0CjlHZ",
 			"fillStyle": "solid",
@@ -3553,14 +3564,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 114,
-			"versionNonce": 2080776703,
+			"version": 115,
+			"versionNonce": 2087480479,
 			"isDeleted": false,
 			"id": "sBliDydn_4jwEeuO1cqgN",
 			"fillStyle": "solid",
@@ -3587,14 +3598,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 89,
-			"versionNonce": 1214529905,
+			"version": 90,
+			"versionNonce": 542470353,
 			"isDeleted": false,
 			"id": "CRYEbHGaSLimFmbwH5JwC",
 			"fillStyle": "solid",
@@ -3637,14 +3648,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 875,
-			"versionNonce": 269453855,
+			"version": 876,
+			"versionNonce": 1318289599,
 			"isDeleted": false,
 			"id": "hvnSrR-xIlJ7WZqUGZVoa",
 			"fillStyle": "solid",
@@ -3666,7 +3677,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3695,8 +3706,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 549,
-			"versionNonce": 1646062417,
+			"version": 550,
+			"versionNonce": 921775793,
 			"isDeleted": false,
 			"id": "5Q4d4zhiEvg9olw7szAA8",
 			"fillStyle": "solid",
@@ -3718,7 +3729,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3747,8 +3758,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 677,
-			"versionNonce": 183955007,
+			"version": 678,
+			"versionNonce": 1325600991,
 			"isDeleted": false,
 			"id": "OQ-9MTOp3B01j-3pJr1aq",
 			"fillStyle": "solid",
@@ -3770,7 +3781,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3799,8 +3810,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 675,
-			"versionNonce": 1994742065,
+			"version": 676,
+			"versionNonce": 1662660753,
 			"isDeleted": false,
 			"id": "EwOi1XIBIbXXtxMLLljFw",
 			"fillStyle": "solid",
@@ -3822,7 +3833,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3851,8 +3862,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 294,
-			"versionNonce": 1469894239,
+			"version": 295,
+			"versionNonce": 390831359,
 			"isDeleted": false,
 			"id": "NpZzCfkissbBiZA8R1wG_",
 			"fillStyle": "solid",
@@ -3872,7 +3883,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3909,8 +3920,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "ellipse",
-			"version": 101,
-			"versionNonce": 405080849,
+			"version": 102,
+			"versionNonce": 176682609,
 			"isDeleted": false,
 			"id": "BqIyE0D_EabaQFvP9imF7",
 			"fillStyle": "solid",
@@ -3953,14 +3964,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 115,
-			"versionNonce": 819047039,
+			"version": 116,
+			"versionNonce": 988652831,
 			"isDeleted": false,
 			"id": "1XkfhxnbuhifTKccsx4Ee",
 			"fillStyle": "solid",
@@ -3987,14 +3998,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 118,
-			"versionNonce": 1045659889,
+			"version": 119,
+			"versionNonce": 1879179345,
 			"isDeleted": false,
 			"id": "PqEoMPDJkOOwWKDQVhI4G",
 			"fillStyle": "solid",
@@ -4021,14 +4032,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 123,
-			"versionNonce": 592839327,
+			"version": 124,
+			"versionNonce": 156870975,
 			"isDeleted": false,
 			"id": "_9pt7AoDkuJ3a6Ygd1_Ox",
 			"fillStyle": "solid",
@@ -4055,14 +4066,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 119,
-			"versionNonce": 1727544017,
+			"version": 120,
+			"versionNonce": 291491377,
 			"isDeleted": false,
 			"id": "AqrW9gq_GuECTbPUXhovZ",
 			"fillStyle": "solid",
@@ -4089,14 +4100,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "arrow",
-			"version": 243,
-			"versionNonce": 1339709119,
+			"version": 244,
+			"versionNonce": 267397471,
 			"isDeleted": false,
 			"id": "F-uJ0VWYnTnest407IBKc",
 			"fillStyle": "solid",
@@ -4116,7 +4127,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4145,8 +4156,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 247,
-			"versionNonce": 1923791025,
+			"version": 248,
+			"versionNonce": 1166598161,
 			"isDeleted": false,
 			"id": "DmAZpfzYASsqtmLfQI7YY",
 			"fillStyle": "solid",
@@ -4166,7 +4177,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4195,8 +4206,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 245,
-			"versionNonce": 1828660959,
+			"version": 246,
+			"versionNonce": 1543611775,
 			"isDeleted": false,
 			"id": "EvE09H9AfhhcTBC4ge362",
 			"fillStyle": "solid",
@@ -4216,7 +4227,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4245,8 +4256,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 244,
-			"versionNonce": 1125284497,
+			"version": 245,
+			"versionNonce": 443856369,
 			"isDeleted": false,
 			"id": "LTH-WV_7O9k8n4CgoeJFi",
 			"fillStyle": "solid",
@@ -4266,7 +4277,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4295,8 +4306,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 87,
-			"versionNonce": 156562175,
+			"version": 88,
+			"versionNonce": 2093915551,
 			"isDeleted": false,
 			"id": "uQ61tv8n",
 			"fillStyle": "solid",
@@ -4325,7 +4336,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4340,8 +4351,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 93,
-			"versionNonce": 417792113,
+			"version": 94,
+			"versionNonce": 1932185553,
 			"isDeleted": false,
 			"id": "KD7PvqGY",
 			"fillStyle": "solid",
@@ -4361,7 +4372,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4376,8 +4387,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 64,
-			"versionNonce": 224148255,
+			"version": 65,
+			"versionNonce": 1166512575,
 			"isDeleted": false,
 			"id": "uYbUlMEWE0aEFDWkEhs02",
 			"fillStyle": "solid",
@@ -4399,14 +4410,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 168,
-			"versionNonce": 837798481,
+			"version": 169,
+			"versionNonce": 1707257265,
 			"isDeleted": false,
 			"id": "OVnehuNJ",
 			"fillStyle": "solid",
@@ -4426,7 +4437,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 33.33333333333332,
@@ -4441,8 +4452,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 101,
-			"versionNonce": 2105900863,
+			"version": 102,
+			"versionNonce": 1330446815,
 			"isDeleted": false,
 			"id": "08BMuiunc3CwTxe8WQsfo",
 			"fillStyle": "hachure",
@@ -4469,14 +4480,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "zm6JJ9hH"
 				}
 			],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 103,
-			"versionNonce": 654596145,
+			"version": 104,
+			"versionNonce": 1499713425,
 			"isDeleted": false,
 			"id": "zm6JJ9hH",
 			"fillStyle": "solid",
@@ -4496,7 +4507,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -4511,8 +4522,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "line",
-			"version": 417,
-			"versionNonce": 2083602271,
+			"version": 418,
+			"versionNonce": 992964095,
 			"isDeleted": false,
 			"id": "coOfDfqTo8Udkv2l2KAlg",
 			"fillStyle": "hachure",
@@ -4534,7 +4545,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4555,8 +4566,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 108,
-			"versionNonce": 168569361,
+			"version": 109,
+			"versionNonce": 1682290033,
 			"isDeleted": false,
 			"id": "Q57ZRkXXeTG8GzPWz7txX",
 			"fillStyle": "hachure",
@@ -4583,14 +4594,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "vY6R9LI0"
 				}
 			],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 111,
-			"versionNonce": 196082559,
+			"version": 112,
+			"versionNonce": 875517471,
 			"isDeleted": false,
 			"id": "vY6R9LI0",
 			"fillStyle": "solid",
@@ -4610,7 +4621,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -4625,8 +4636,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "line",
-			"version": 423,
-			"versionNonce": 1140768753,
+			"version": 424,
+			"versionNonce": 1773133649,
 			"isDeleted": false,
 			"id": "mVmq-FzNt1aDdv5fvItZT",
 			"fillStyle": "hachure",
@@ -4648,7 +4659,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4669,8 +4680,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 23,
-			"versionNonce": 272774047,
+			"version": 24,
+			"versionNonce": 826096191,
 			"isDeleted": false,
 			"id": "OaaV9DewSQc-xvxs7vGBF",
 			"fillStyle": "cross-hatch",
@@ -4695,7 +4706,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "3Q07lnqV"
 				}
 			],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4716,8 +4727,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 30,
-			"versionNonce": 853776849,
+			"version": 31,
+			"versionNonce": 2012859697,
 			"isDeleted": false,
 			"id": "3Q07lnqV",
 			"fillStyle": "cross-hatch",
@@ -4737,7 +4748,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -4752,8 +4763,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 21,
-			"versionNonce": 303589311,
+			"version": 22,
+			"versionNonce": 2000263775,
 			"isDeleted": false,
 			"id": "n9wYng6vQ2s156LE7zEH9",
 			"fillStyle": "cross-hatch",
@@ -4778,7 +4789,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "YvDSETE8"
 				}
 			],
-			"updated": 1715430520278,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4799,8 +4810,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 26,
-			"versionNonce": 131217329,
+			"version": 27,
+			"versionNonce": 1720385297,
 			"isDeleted": false,
 			"id": "YvDSETE8",
 			"fillStyle": "cross-hatch",
@@ -4820,7 +4831,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -4835,8 +4846,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 77,
-			"versionNonce": 1062410207,
+			"version": 78,
+			"versionNonce": 1526003327,
 			"isDeleted": false,
 			"id": "i6F4J9uCdosTndlwHR7uS",
 			"fillStyle": "solid",
@@ -4858,14 +4869,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 108,
-			"versionNonce": 1693587857,
+			"version": 109,
+			"versionNonce": 869987569,
 			"isDeleted": false,
 			"id": "FNkz5GUqt8dkqGRTHwceI",
 			"fillStyle": "hachure",
@@ -4892,14 +4903,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "Cif0uELF"
 				}
 			],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 110,
-			"versionNonce": 771933183,
+			"version": 111,
+			"versionNonce": 1127206559,
 			"isDeleted": false,
 			"id": "Cif0uELF",
 			"fillStyle": "solid",
@@ -4919,7 +4930,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -4934,8 +4945,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "line",
-			"version": 424,
-			"versionNonce": 997900145,
+			"version": 425,
+			"versionNonce": 594620113,
 			"isDeleted": false,
 			"id": "4nGgKupkrMWQgR9K-gh32",
 			"fillStyle": "hachure",
@@ -4957,7 +4968,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4978,8 +4989,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 115,
-			"versionNonce": 1579674655,
+			"version": 116,
+			"versionNonce": 1788519103,
 			"isDeleted": false,
 			"id": "-xIXVKfU5BWszo93TPd23",
 			"fillStyle": "hachure",
@@ -5006,14 +5017,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "HZaZzmyU"
 				}
 			],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 118,
-			"versionNonce": 1773381969,
+			"version": 119,
+			"versionNonce": 468004017,
 			"isDeleted": false,
 			"id": "HZaZzmyU",
 			"fillStyle": "solid",
@@ -5033,7 +5044,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -5048,8 +5059,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "line",
-			"version": 430,
-			"versionNonce": 2075332671,
+			"version": 431,
+			"versionNonce": 1641411295,
 			"isDeleted": false,
 			"id": "9FBt8bB4bJaxYiaiuc9v5",
 			"fillStyle": "hachure",
@@ -5071,7 +5082,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5092,8 +5103,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 31,
-			"versionNonce": 418666289,
+			"version": 32,
+			"versionNonce": 1155427985,
 			"isDeleted": false,
 			"id": "IwJRT9FyVlwHeVdjlrP8W",
 			"fillStyle": "cross-hatch",
@@ -5118,7 +5129,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "D7DwNogo"
 				}
 			],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5139,8 +5150,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 99,
-			"versionNonce": 1619308639,
+			"version": 100,
+			"versionNonce": 1366441727,
 			"isDeleted": false,
 			"id": "D7DwNogo",
 			"fillStyle": "cross-hatch",
@@ -5160,7 +5171,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5175,8 +5186,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 29,
-			"versionNonce": 1537493265,
+			"version": 30,
+			"versionNonce": 1695839345,
 			"isDeleted": false,
 			"id": "GFyeC-oEMeJetj_8Egb1A",
 			"fillStyle": "cross-hatch",
@@ -5201,7 +5212,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "lwwNawQn"
 				}
 			],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5222,8 +5233,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 89,
-			"versionNonce": 1450003583,
+			"version": 90,
+			"versionNonce": 2079328031,
 			"isDeleted": false,
 			"id": "lwwNawQn",
 			"fillStyle": "cross-hatch",
@@ -5243,7 +5254,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5258,8 +5269,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 69,
-			"versionNonce": 188415729,
+			"version": 70,
+			"versionNonce": 5160529,
 			"isDeleted": false,
 			"id": "DpLgEW6a_qBuiWbIQlk9R",
 			"fillStyle": "solid",
@@ -5281,14 +5292,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 119,
-			"versionNonce": 422405279,
+			"version": 120,
+			"versionNonce": 2143275839,
 			"isDeleted": false,
 			"id": "StbbDMpG5Q6jyYZag_D8-",
 			"fillStyle": "hachure",
@@ -5315,14 +5326,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "QHt42PtT"
 				}
 			],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 121,
-			"versionNonce": 1715468497,
+			"version": 122,
+			"versionNonce": 895798321,
 			"isDeleted": false,
 			"id": "QHt42PtT",
 			"fillStyle": "solid",
@@ -5342,7 +5353,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -5357,8 +5368,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "line",
-			"version": 435,
-			"versionNonce": 410351807,
+			"version": 436,
+			"versionNonce": 1497500511,
 			"isDeleted": false,
 			"id": "vN_JSR0epLq5w2Bov7oQH",
 			"fillStyle": "hachure",
@@ -5380,7 +5391,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5401,8 +5412,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 126,
-			"versionNonce": 1850390193,
+			"version": 127,
+			"versionNonce": 1547574801,
 			"isDeleted": false,
 			"id": "pChd7xnBqgA4B_2nNy-7u",
 			"fillStyle": "hachure",
@@ -5429,14 +5440,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "J4z4HKGZ"
 				}
 			],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 129,
-			"versionNonce": 2045118687,
+			"version": 130,
+			"versionNonce": 617039743,
 			"isDeleted": false,
 			"id": "J4z4HKGZ",
 			"fillStyle": "solid",
@@ -5456,7 +5467,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -5471,8 +5482,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "line",
-			"version": 441,
-			"versionNonce": 100841617,
+			"version": 442,
+			"versionNonce": 1674720241,
 			"isDeleted": false,
 			"id": "wdtBUExyfzMl47VI6bkhB",
 			"fillStyle": "hachure",
@@ -5494,7 +5505,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5515,8 +5526,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 46,
-			"versionNonce": 1527747839,
+			"version": 47,
+			"versionNonce": 546307999,
 			"isDeleted": false,
 			"id": "f5vY9hXCMiqdOtLYHpzeF",
 			"fillStyle": "cross-hatch",
@@ -5541,7 +5552,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "R58BczgJ"
 				}
 			],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5562,8 +5573,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 108,
-			"versionNonce": 1327464049,
+			"version": 109,
+			"versionNonce": 1881705937,
 			"isDeleted": false,
 			"id": "R58BczgJ",
 			"fillStyle": "cross-hatch",
@@ -5583,7 +5594,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5598,8 +5609,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 61,
-			"versionNonce": 1400020255,
+			"version": 62,
+			"versionNonce": 1858909119,
 			"isDeleted": false,
 			"id": "Vza7C-nsevEAxHJk28Ko3",
 			"fillStyle": "cross-hatch",
@@ -5624,7 +5635,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "Q6J8cyiQ"
 				}
 			],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5645,8 +5656,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 112,
-			"versionNonce": 1214810193,
+			"version": 113,
+			"versionNonce": 945335217,
 			"isDeleted": false,
 			"id": "Q6J8cyiQ",
 			"fillStyle": "cross-hatch",
@@ -5666,7 +5677,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5681,8 +5692,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 57,
-			"versionNonce": 914334015,
+			"version": 58,
+			"versionNonce": 396223455,
 			"isDeleted": false,
 			"id": "F_H7zkzTcyL80dRS9zLnk",
 			"fillStyle": "cross-hatch",
@@ -5707,7 +5718,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "mtdkIk14"
 				}
 			],
-			"updated": 1715430520279,
+			"updated": 1715520108995,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5728,8 +5739,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 111,
-			"versionNonce": 733304369,
+			"version": 112,
+			"versionNonce": 613027217,
 			"isDeleted": false,
 			"id": "mtdkIk14",
 			"fillStyle": "cross-hatch",
@@ -5749,7 +5760,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5764,8 +5775,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 77,
-			"versionNonce": 362226015,
+			"version": 78,
+			"versionNonce": 1259606015,
 			"isDeleted": false,
 			"id": "zT6gVMsYceHitrtBzZru6",
 			"fillStyle": "cross-hatch",
@@ -5790,7 +5801,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "3USIDvAe"
 				}
 			],
-			"updated": 1715430520279,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5811,8 +5822,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 116,
-			"versionNonce": 200108049,
+			"version": 117,
+			"versionNonce": 737424241,
 			"isDeleted": false,
 			"id": "3USIDvAe",
 			"fillStyle": "cross-hatch",
@@ -5832,7 +5843,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5847,8 +5858,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 29,
-			"versionNonce": 34184575,
+			"version": 30,
+			"versionNonce": 1664071711,
 			"isDeleted": false,
 			"id": "pSjjvgheBEprD5cqGGdsB",
 			"fillStyle": "cross-hatch",
@@ -5870,7 +5881,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -5895,8 +5906,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 37,
-			"versionNonce": 856178161,
+			"version": 38,
+			"versionNonce": 1927191889,
 			"isDeleted": false,
 			"id": "3YNKXpq2",
 			"fillStyle": "cross-hatch",
@@ -5916,7 +5927,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -5931,8 +5942,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 76,
-			"versionNonce": 253203871,
+			"version": 77,
+			"versionNonce": 635526207,
 			"isDeleted": false,
 			"id": "q6sdBn8AKZjt7ogNtz7f1",
 			"fillStyle": "solid",
@@ -5954,14 +5965,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 126,
-			"versionNonce": 1074616273,
+			"version": 127,
+			"versionNonce": 681626417,
 			"isDeleted": false,
 			"id": "KBzxuCvlK0f1EPVBS3-la",
 			"fillStyle": "hachure",
@@ -5988,14 +5999,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "7pIBivD9"
 				}
 			],
-			"updated": 1715430520279,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 128,
-			"versionNonce": 334596543,
+			"version": 129,
+			"versionNonce": 1191803999,
 			"isDeleted": false,
 			"id": "7pIBivD9",
 			"fillStyle": "solid",
@@ -6015,7 +6026,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -6030,8 +6041,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "line",
-			"version": 442,
-			"versionNonce": 85210545,
+			"version": 443,
+			"versionNonce": 631389457,
 			"isDeleted": false,
 			"id": "SW_hqMRiB8PJcF-KQ9IL6",
 			"fillStyle": "hachure",
@@ -6053,7 +6064,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6074,8 +6085,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 133,
-			"versionNonce": 767031775,
+			"version": 134,
+			"versionNonce": 712546431,
 			"isDeleted": false,
 			"id": "64YYCiBpzOxEp3mopqgTk",
 			"fillStyle": "hachure",
@@ -6102,14 +6113,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "8RGu6CrC"
 				}
 			],
-			"updated": 1715430520279,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 136,
-			"versionNonce": 625235857,
+			"version": 137,
+			"versionNonce": 1230664433,
 			"isDeleted": false,
 			"id": "8RGu6CrC",
 			"fillStyle": "solid",
@@ -6129,7 +6140,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -6144,8 +6155,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "line",
-			"version": 448,
-			"versionNonce": 24864255,
+			"version": 449,
+			"versionNonce": 1710174367,
 			"isDeleted": false,
 			"id": "AlLSrt7eZPOF9tTnkYzPb",
 			"fillStyle": "hachure",
@@ -6167,7 +6178,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520279,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6188,8 +6199,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 54,
-			"versionNonce": 1926577521,
+			"version": 55,
+			"versionNonce": 407956689,
 			"isDeleted": false,
 			"id": "RNfVyTd9-uEocE60h5uge",
 			"fillStyle": "cross-hatch",
@@ -6214,7 +6225,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "6wJClMfx"
 				}
 			],
-			"updated": 1715430520279,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6235,8 +6246,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 111,
-			"versionNonce": 1044139551,
+			"version": 112,
+			"versionNonce": 52282559,
 			"isDeleted": false,
 			"id": "6wJClMfx",
 			"fillStyle": "cross-hatch",
@@ -6256,7 +6267,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -6271,8 +6282,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 120,
-			"versionNonce": 219047761,
+			"version": 121,
+			"versionNonce": 438119089,
 			"isDeleted": false,
 			"id": "UJitnnlFlrEAERZa1xnCp",
 			"fillStyle": "cross-hatch",
@@ -6297,7 +6308,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "YQSLS4LD"
 				}
 			],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6322,8 +6333,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 120,
-			"versionNonce": 1592472127,
+			"version": 121,
+			"versionNonce": 27579615,
 			"isDeleted": false,
 			"id": "YQSLS4LD",
 			"fillStyle": "cross-hatch",
@@ -6343,7 +6354,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -6358,8 +6369,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 43,
-			"versionNonce": 1044862257,
+			"version": 44,
+			"versionNonce": 2003217553,
 			"isDeleted": false,
 			"id": "6CaLvYgZ3NJHwKvDbiL4p",
 			"fillStyle": "cross-hatch",
@@ -6381,7 +6392,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6406,8 +6417,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 62,
-			"versionNonce": 745050719,
+			"version": 63,
+			"versionNonce": 420798719,
 			"isDeleted": false,
 			"id": "UxmhYb38BhQ0Q39aFcDzf",
 			"fillStyle": "cross-hatch",
@@ -6432,7 +6443,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "jGz5ifvO"
 				}
 			],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6453,8 +6464,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 114,
-			"versionNonce": 434603793,
+			"version": 115,
+			"versionNonce": 1474622065,
 			"isDeleted": false,
 			"id": "jGz5ifvO",
 			"fillStyle": "cross-hatch",
@@ -6474,7 +6485,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -6489,8 +6500,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 134,
-			"versionNonce": 2139418239,
+			"version": 135,
+			"versionNonce": 988703007,
 			"isDeleted": false,
 			"id": "MeUIN9wJ4WdZ9hVLCcsZN",
 			"fillStyle": "cross-hatch",
@@ -6515,7 +6526,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "YrJ6T0h9"
 				}
 			],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6540,8 +6551,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 123,
-			"versionNonce": 1516666097,
+			"version": 124,
+			"versionNonce": 6257745,
 			"isDeleted": false,
 			"id": "YrJ6T0h9",
 			"fillStyle": "cross-hatch",
@@ -6561,7 +6572,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -6576,8 +6587,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 84,
-			"versionNonce": 1124124319,
+			"version": 85,
+			"versionNonce": 1419898175,
 			"isDeleted": false,
 			"id": "cPhhmr9b6_cUALxZ_7KcN",
 			"fillStyle": "solid",
@@ -6599,14 +6610,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 154,
-			"versionNonce": 2135668433,
+			"version": 155,
+			"versionNonce": 816695857,
 			"isDeleted": false,
 			"id": "2lv9KV6NtfchIGcSVvwmm",
 			"fillStyle": "hachure",
@@ -6633,14 +6644,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "pNQ78ipx"
 				}
 			],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 159,
-			"versionNonce": 898407103,
+			"version": 160,
+			"versionNonce": 1368386911,
 			"isDeleted": false,
 			"id": "pNQ78ipx",
 			"fillStyle": "solid",
@@ -6660,7 +6671,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -6675,8 +6686,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "line",
-			"version": 469,
-			"versionNonce": 724481201,
+			"version": 470,
+			"versionNonce": 1102535697,
 			"isDeleted": false,
 			"id": "s-o22DUkeza_KJdZ3e8Zs",
 			"fillStyle": "hachure",
@@ -6698,7 +6709,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6719,8 +6730,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 132,
-			"versionNonce": 1808329439,
+			"version": 133,
+			"versionNonce": 1560865151,
 			"isDeleted": false,
 			"id": "jYFl3EhOd-VzGa7gCzvR4",
 			"fillStyle": "hachure",
@@ -6747,14 +6758,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "PdvB7WUb"
 				}
 			],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 134,
-			"versionNonce": 1102509713,
+			"version": 135,
+			"versionNonce": 57913841,
 			"isDeleted": false,
 			"id": "PdvB7WUb",
 			"fillStyle": "solid",
@@ -6774,7 +6785,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -6789,8 +6800,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "line",
-			"version": 448,
-			"versionNonce": 306591487,
+			"version": 449,
+			"versionNonce": 1682792863,
 			"isDeleted": false,
 			"id": "sEfDuCQ3361f0yJA57Brf",
 			"fillStyle": "hachure",
@@ -6812,7 +6823,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6833,8 +6844,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 137,
-			"versionNonce": 1167850609,
+			"version": 138,
+			"versionNonce": 1525304273,
 			"isDeleted": false,
 			"id": "MrVw99aX",
 			"fillStyle": "hachure",
@@ -6854,7 +6865,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -6869,8 +6880,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 25,
-			"versionNonce": 1870987039,
+			"version": 26,
+			"versionNonce": 1485690303,
 			"isDeleted": false,
 			"id": "bFFrv3J-FQHSy2waGCt0B",
 			"fillStyle": "cross-hatch",
@@ -6897,7 +6908,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "xfVVU1mD"
 				}
 			],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -6918,8 +6929,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 108,
-			"versionNonce": 1990542929,
+			"version": 109,
+			"versionNonce": 540191153,
 			"isDeleted": false,
 			"id": "xfVVU1mD",
 			"fillStyle": "cross-hatch",
@@ -6939,7 +6950,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -6954,8 +6965,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 23,
-			"versionNonce": 636863295,
+			"version": 24,
+			"versionNonce": 820692447,
 			"isDeleted": false,
 			"id": "vrwyCyHxRVpdyp4vjNgBP",
 			"fillStyle": "cross-hatch",
@@ -6982,7 +6993,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "7DLGw49A"
 				}
 			],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7003,8 +7014,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 29,
-			"versionNonce": 799691825,
+			"version": 30,
+			"versionNonce": 1014254481,
 			"isDeleted": false,
 			"id": "7DLGw49A",
 			"fillStyle": "cross-hatch",
@@ -7024,7 +7035,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -7039,8 +7050,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 16,
-			"versionNonce": 905511775,
+			"version": 17,
+			"versionNonce": 745845247,
 			"isDeleted": false,
 			"id": "jQgLeXsjIJDxob2QuFC8Z",
 			"fillStyle": "cross-hatch",
@@ -7067,7 +7078,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "dit1z2P1"
 				}
 			],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7088,8 +7099,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 70,
-			"versionNonce": 76719633,
+			"version": 71,
+			"versionNonce": 132559217,
 			"isDeleted": false,
 			"id": "dit1z2P1",
 			"fillStyle": "cross-hatch",
@@ -7109,7 +7120,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -7124,8 +7135,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 92,
-			"versionNonce": 1071595391,
+			"version": 93,
+			"versionNonce": 1412176415,
 			"isDeleted": false,
 			"id": "KMtGG5Vqz0UttxUGs17uj",
 			"fillStyle": "solid",
@@ -7147,14 +7158,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 162,
-			"versionNonce": 542489585,
+			"version": 163,
+			"versionNonce": 1741773649,
 			"isDeleted": false,
 			"id": "fKV2rxu2_yxehTKgoeMF9",
 			"fillStyle": "hachure",
@@ -7181,14 +7192,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "ZTsmHcId"
 				}
 			],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 167,
-			"versionNonce": 99153823,
+			"version": 168,
+			"versionNonce": 1023508031,
 			"isDeleted": false,
 			"id": "ZTsmHcId",
 			"fillStyle": "solid",
@@ -7208,7 +7219,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -7223,8 +7234,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "line",
-			"version": 479,
-			"versionNonce": 1660622289,
+			"version": 480,
+			"versionNonce": 747358513,
 			"isDeleted": false,
 			"id": "1FxAY_RpiLn1GtVPlp3-E",
 			"fillStyle": "hachure",
@@ -7246,7 +7257,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520280,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7267,8 +7278,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 140,
-			"versionNonce": 776383423,
+			"version": 141,
+			"versionNonce": 164978271,
 			"isDeleted": false,
 			"id": "XTzB-0Re6qBPDyBZzyPXW",
 			"fillStyle": "hachure",
@@ -7295,14 +7306,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "DUhBylPJ"
 				}
 			],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 142,
-			"versionNonce": 1067070385,
+			"version": 143,
+			"versionNonce": 796752657,
 			"isDeleted": false,
 			"id": "DUhBylPJ",
 			"fillStyle": "solid",
@@ -7322,7 +7333,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -7337,8 +7348,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "line",
-			"version": 456,
-			"versionNonce": 1159257055,
+			"version": 457,
+			"versionNonce": 762854015,
 			"isDeleted": false,
 			"id": "fDGVFBg8l1pYPxYAa74SH",
 			"fillStyle": "hachure",
@@ -7360,7 +7371,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7381,8 +7392,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 147,
-			"versionNonce": 1515885969,
+			"version": 148,
+			"versionNonce": 824045809,
 			"isDeleted": false,
 			"id": "ut4v3wB5",
 			"fillStyle": "hachure",
@@ -7402,7 +7413,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -7417,8 +7428,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 35,
-			"versionNonce": 2121271295,
+			"version": 36,
+			"versionNonce": 1823117983,
 			"isDeleted": false,
 			"id": "Wbhms-wsA9KfjEqaNfdU5",
 			"fillStyle": "cross-hatch",
@@ -7440,7 +7451,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7461,8 +7472,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 45,
-			"versionNonce": 1718860657,
+			"version": 46,
+			"versionNonce": 1995746001,
 			"isDeleted": false,
 			"id": "Pu9aXaCiDqjUIpd6OVS4M",
 			"fillStyle": "cross-hatch",
@@ -7484,7 +7495,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7505,8 +7516,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "ellipse",
-			"version": 10,
-			"versionNonce": 944549919,
+			"version": 11,
+			"versionNonce": 538764991,
 			"isDeleted": false,
 			"id": "QaSS38MmCFrC5g0j-Mn8i",
 			"fillStyle": "solid",
@@ -7528,14 +7539,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 23,
-			"versionNonce": 1143809361,
+			"version": 24,
+			"versionNonce": 697903281,
 			"isDeleted": false,
 			"id": "Vy74EmrZMrPzl3asKUElE",
 			"fillStyle": "solid",
@@ -7557,7 +7568,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7582,8 +7593,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 43,
-			"versionNonce": 1017074751,
+			"version": 44,
+			"versionNonce": 913290975,
 			"isDeleted": false,
 			"id": "HX7HP1R0mQXXzfYZ5rNPp",
 			"fillStyle": "cross-hatch",
@@ -7605,7 +7616,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7626,8 +7637,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 60,
-			"versionNonce": 1591628593,
+			"version": 61,
+			"versionNonce": 1924328081,
 			"isDeleted": false,
 			"id": "T0Y7ckSeY22hDWyCFsIoY",
 			"fillStyle": "cross-hatch",
@@ -7649,7 +7660,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7670,8 +7681,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "ellipse",
-			"version": 14,
-			"versionNonce": 1128821855,
+			"version": 15,
+			"versionNonce": 1983087359,
 			"isDeleted": false,
 			"id": "TfPs-zJ-eH_LbPAq5XKer",
 			"fillStyle": "solid",
@@ -7693,14 +7704,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 12,
-			"versionNonce": 1257162001,
+			"version": 13,
+			"versionNonce": 1526296689,
 			"isDeleted": false,
 			"id": "KFe_IEQB7C8hXYCuS85m1",
 			"fillStyle": "solid",
@@ -7722,14 +7733,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 18,
-			"versionNonce": 874025087,
+			"version": 19,
+			"versionNonce": 2145962783,
 			"isDeleted": false,
 			"id": "u3o0u0XNkz-HPkfriPH10",
 			"fillStyle": "solid",
@@ -7751,14 +7762,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 12,
-			"versionNonce": 601225969,
+			"version": 13,
+			"versionNonce": 1748253265,
 			"isDeleted": false,
 			"id": "ohEItUBJ",
 			"fillStyle": "solid",
@@ -7778,7 +7789,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -7793,8 +7804,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 237,
-			"versionNonce": 684730527,
+			"version": 238,
+			"versionNonce": 268439359,
 			"isDeleted": false,
 			"id": "efF1F5mt",
 			"fillStyle": "hachure",
@@ -7814,7 +7825,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -7829,8 +7840,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 103,
-			"versionNonce": 706442449,
+			"version": 104,
+			"versionNonce": 2067449905,
 			"isDeleted": false,
 			"id": "or6zY8bFecVnrhqZ080Dv",
 			"fillStyle": "solid",
@@ -7852,14 +7863,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 174,
-			"versionNonce": 838763391,
+			"version": 175,
+			"versionNonce": 14274399,
 			"isDeleted": false,
 			"id": "LXGY0d4j018hLO_yWBB7K",
 			"fillStyle": "hachure",
@@ -7890,14 +7901,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"type": "arrow"
 				}
 			],
-			"updated": 1715430527527,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 178,
-			"versionNonce": 559329969,
+			"version": 179,
+			"versionNonce": 1844746769,
 			"isDeleted": false,
 			"id": "JiTvsPnt",
 			"fillStyle": "solid",
@@ -7917,7 +7928,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -7932,8 +7943,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "line",
-			"version": 488,
-			"versionNonce": 1252510943,
+			"version": 489,
+			"versionNonce": 214338431,
 			"isDeleted": false,
 			"id": "_RU4rfjWuXVgJHznhKvtj",
 			"fillStyle": "hachure",
@@ -7955,7 +7966,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -7976,8 +7987,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "rectangle",
-			"version": 151,
-			"versionNonce": 1848587409,
+			"version": 152,
+			"versionNonce": 1901670385,
 			"isDeleted": false,
 			"id": "VDHSK7KTFFhLgW5P2FqE0",
 			"fillStyle": "hachure",
@@ -8004,14 +8015,14 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "KfWzpugd"
 				}
 			],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 153,
-			"versionNonce": 922278143,
+			"version": 154,
+			"versionNonce": 1342620575,
 			"isDeleted": false,
 			"id": "KfWzpugd",
 			"fillStyle": "solid",
@@ -8031,7 +8042,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -8046,8 +8057,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "line",
-			"version": 468,
-			"versionNonce": 1952217713,
+			"version": 470,
+			"versionNonce": 728762833,
 			"isDeleted": false,
 			"id": "oaa1hLP4nqzzPDpTkguwQ",
 			"fillStyle": "hachure",
@@ -8056,7 +8067,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4260.58782874905,
+			"x": 4260.5878287490505,
 			"y": 481.1019581809826,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#b2f2bb",
@@ -8069,7 +8080,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8090,8 +8101,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 158,
-			"versionNonce": 1771266335,
+			"version": 159,
+			"versionNonce": 181073855,
 			"isDeleted": false,
 			"id": "WWZHCLZe",
 			"fillStyle": "hachure",
@@ -8111,7 +8122,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -8126,8 +8137,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 63,
-			"versionNonce": 395434943,
+			"version": 66,
+			"versionNonce": 357607345,
 			"isDeleted": false,
 			"id": "3k8uye1U-IFApOTrT7DiN",
 			"fillStyle": "cross-hatch",
@@ -8154,13 +8165,13 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "BUKxXFmY"
 				}
 			],
-			"updated": 1715430577968,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "LXGY0d4j018hLO_yWBB7K",
-				"focus": 1.1789640624749425,
-				"gap": 19.964519020039575
+				"gap": 19.964519020039575,
+				"focus": 1.1789640624749425
 			},
 			"endBinding": null,
 			"lastCommittedPoint": null,
@@ -8179,8 +8190,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 125,
-			"versionNonce": 1407706431,
+			"version": 126,
+			"versionNonce": 590587871,
 			"isDeleted": false,
 			"id": "BUKxXFmY",
 			"fillStyle": "cross-hatch",
@@ -8200,7 +8211,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -8215,8 +8226,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 61,
-			"versionNonce": 2053816913,
+			"version": 62,
+			"versionNonce": 421693841,
 			"isDeleted": false,
 			"id": "kRvhRdpi4s2GWJOjxM03h",
 			"fillStyle": "cross-hatch",
@@ -8243,7 +8254,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "0g97rO7I"
 				}
 			],
-			"updated": 1715430526865,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8264,8 +8275,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 46,
-			"versionNonce": 1700193631,
+			"version": 47,
+			"versionNonce": 1733383167,
 			"isDeleted": false,
 			"id": "0g97rO7I",
 			"fillStyle": "cross-hatch",
@@ -8285,7 +8296,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430520281,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -8299,35 +8310,35 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"lineHeight": 1.2
 		},
 		{
-			"id": "OZBwc5Bt",
 			"type": "text",
-			"x": 3820,
-			"y": 640,
-			"width": 238.6438751220703,
-			"height": 33.6,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"version": 64,
+			"versionNonce": 1880960881,
+			"isDeleted": false,
+			"id": "OZBwc5Bt",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 3820,
+			"y": 640,
+			"strokeColor": "#e03131",
+			"backgroundColor": "#a5d8ff",
+			"width": 238.6438751220703,
+			"height": 33.6,
+			"seed": 2069748721,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2069748721,
-			"version": 63,
-			"versionNonce": 1613631935,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1715430531916,
+			"boundElements": [],
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
-			"text": "Host A는 데이터 송신 불가",
-			"rawText": "Host A는 데이터 송신 불가",
 			"fontSize": 28,
 			"fontFamily": 4,
+			"text": "Host A는 데이터 송신 불가",
+			"rawText": "Host A는 데이터 송신 불가",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -8336,8 +8347,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 70,
-			"versionNonce": 1028185105,
+			"version": 71,
+			"versionNonce": 254049311,
 			"isDeleted": false,
 			"id": "g5IEsaQn8mpn8B60xy7Am",
 			"fillStyle": "cross-hatch",
@@ -8364,7 +8375,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "ewcvznSU"
 				}
 			],
-			"updated": 1715430539817,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8385,8 +8396,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 128,
-			"versionNonce": 1723561599,
+			"version": 129,
+			"versionNonce": 1082661201,
 			"isDeleted": false,
 			"id": "ewcvznSU",
 			"fillStyle": "cross-hatch",
@@ -8406,7 +8417,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430534706,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -8421,8 +8432,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "arrow",
-			"version": 85,
-			"versionNonce": 382551601,
+			"version": 86,
+			"versionNonce": 2124259391,
 			"isDeleted": false,
 			"id": "1XDZQ15csIUJN2VKqBzVu",
 			"fillStyle": "cross-hatch",
@@ -8449,7 +8460,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 					"id": "3ajtsQrm"
 				}
 			],
-			"updated": 1715430546566,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -8470,8 +8481,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 49,
-			"versionNonce": 411578737,
+			"version": 50,
+			"versionNonce": 2075838257,
 			"isDeleted": false,
 			"id": "3ajtsQrm",
 			"fillStyle": "cross-hatch",
@@ -8491,7 +8502,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430541977,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -8506,8 +8517,8 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		},
 		{
 			"type": "text",
-			"version": 70,
-			"versionNonce": 1850735327,
+			"version": 71,
+			"versionNonce": 1201487967,
 			"isDeleted": false,
 			"id": "4P56R3O4",
 			"fillStyle": "solid",
@@ -8527,7 +8538,7 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430553735,
+			"updated": 1715520108996,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -8541,88 +8552,517 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 			"lineHeight": 1.2
 		},
 		{
-			"type": "arrow",
-			"version": 36,
-			"versionNonce": 483358271,
-			"isDeleted": true,
-			"id": "oBQasNczzFyQC9rtL3kTb",
-			"fillStyle": "cross-hatch",
-			"strokeWidth": 2,
+			"type": "rectangle",
+			"version": 250,
+			"versionNonce": 2087229343,
+			"isDeleted": false,
+			"id": "jQQu6uK2M4BqTJLGZOOyg",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3800,
-			"y": 780,
+			"x": 4460,
+			"y": -199.26531044501996,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#b2f2bb",
-			"width": 460,
-			"height": 80,
-			"seed": 101287249,
+			"backgroundColor": "transparent",
+			"width": 252.73602029136936,
+			"height": 359.26531044502,
+			"seed": 1948850513,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "hEZW8Pmh"
+				}
+			],
+			"updated": 1715520141487,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 191,
+			"versionNonce": 1943161791,
+			"isDeleted": false,
+			"id": "hEZW8Pmh",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4507.600042921564,
+			"y": -41.23265522250995,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e9ecef",
+			"width": 157.5359344482422,
+			"height": 43.199999999999996,
+			"seed": 322684721,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715520141487,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 4,
+			"text": "Spare Room",
+			"rawText": "Spare Room",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "jQQu6uK2M4BqTJLGZOOyg",
+			"originalText": "Spare Room",
+			"lineHeight": 1.2
+		},
+		{
+			"type": "rectangle",
+			"version": 445,
+			"versionNonce": 405830623,
+			"isDeleted": false,
+			"id": "8MRI553TYj53P-s4dzGqT",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4713.214404590477,
+			"y": -200,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e9ecef",
+			"width": 192.25927538921457,
+			"height": 359.26531044502,
+			"seed": 2071836945,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "04FXbXcm"
+				},
+				{
+					"id": "FbWU9d0X7jRU9H4Kp1vrL",
+					"type": "arrow"
+				}
+			],
+			"updated": 1715520141487,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 251,
+			"versionNonce": 1301522431,
+			"isDeleted": false,
+			"id": "04FXbXcm",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4743.752085192799,
+			"y": -63.56734477748998,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e9ecef",
+			"width": 131.1839141845703,
+			"height": 86.39999999999999,
+			"seed": 1315335921,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715520141487,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 4,
+			"text": "TCP data\nin BUffer",
+			"rawText": "TCP data\nin BUffer",
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "8MRI553TYj53P-s4dzGqT",
+			"originalText": "TCP data\nin BUffer",
+			"lineHeight": 1.2
+		},
+		{
+			"type": "line",
+			"version": 252,
+			"versionNonce": 257619007,
+			"isDeleted": false,
+			"id": "1gEP14IMEIiJ9WluPRswu",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4463.5373743419495,
+			"y": -198.5156117991935,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e9ecef",
+			"width": 249.8277131290341,
+			"height": 32.09128423359939,
+			"seed": 310208721,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "j3xNnmzR"
-				}
-			],
-			"updated": 1715430523419,
+			"boundElements": [],
+			"updated": 1715520141487,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
 			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
-			"endArrowhead": "arrow",
+			"endArrowhead": null,
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					460,
-					80
+					120.57318540221009,
+					-32.09128423359939
+				],
+				[
+					249.8277131290341,
+					-1.3715742305869656
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 74,
-			"versionNonce": 1924747569,
-			"isDeleted": true,
-			"id": "j3xNnmzR",
-			"fillStyle": "cross-hatch",
+			"version": 262,
+			"versionNonce": 2106594399,
+			"isDeleted": false,
+			"id": "8GBVRqz4",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4473.214404590477,
+			"y": -280,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e9ecef",
+			"width": 235.4518280029297,
+			"height": 33.6,
+			"seed": 291120817,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715520141487,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 4,
+			"text": "Receive Window (rwnd)",
+			"rawText": "Receive Window (rwnd)",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Receive Window (rwnd)",
+			"lineHeight": 1.2
+		},
+		{
+			"type": "line",
+			"version": 343,
+			"versionNonce": 74199167,
+			"isDeleted": false,
+			"id": "YuWETEaNRSqW3deTtZE2L",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4461.588446691386,
+			"y": -197.05764184047973,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e9ecef",
+			"width": 442.25992995073045,
+			"height": 97.29781949585976,
+			"seed": 1973692561,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715520141487,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					9.763824261740846e-15,
+					-97.29781949585976
+				],
+				[
+					442.25992995073045,
+					-97.29781949585976
+				],
+				[
+					442.25992995073045,
+					-0.24890301188268096
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 211,
+			"versionNonce": 1840236703,
+			"isDeleted": false,
+			"id": "Rts40e5k",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4593.214404590477,
+			"y": -360,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#e9ecef",
+			"width": 209.19586181640625,
+			"height": 43.199999999999996,
+			"seed": 689106545,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715520141487,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 4,
+			"text": "Receive Buffer",
+			"rawText": "Receive Buffer",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Receive Buffer",
+			"lineHeight": 1.2
+		},
+		{
+			"type": "arrow",
+			"version": 884,
+			"versionNonce": 1842908081,
+			"isDeleted": false,
+			"id": "FbWU9d0X7jRU9H4Kp1vrL",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4913.214404590477,
+			"y": -20,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "#e9ecef",
+			"width": 104.1843725217368,
+			"height": 0.09644477134637341,
+			"seed": 660002833,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1715520170920,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "8MRI553TYj53P-s4dzGqT",
+				"focus": 0.00257898189843883,
+				"gap": 7.740724610785037
+			},
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "triangle",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					104.1843725217368,
+					-0.09644477134637341
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 382,
+			"versionNonce": 1411345631,
+			"isDeleted": false,
+			"id": "BRCPOInd",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4913.214404590477,
+			"y": -80,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "#e9ecef",
+			"width": 62.4959716796875,
+			"height": 33.6,
+			"seed": 2143530481,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "FbWU9d0X7jRU9H4Kp1vrL",
+					"type": "arrow"
+				}
+			],
+			"updated": 1715520141487,
+			"link": null,
+			"locked": false,
+			"fontSize": 28,
+			"fontFamily": 4,
+			"text": "\b처리량",
+			"rawText": "\b처리량",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "\b처리량",
+			"lineHeight": 1.2
+		},
+		{
+			"type": "rectangle",
+			"version": 80,
+			"versionNonce": 1056954609,
+			"isDeleted": false,
+			"id": "CzIM3mNVgnNeY9qtRBQQ9",
+			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4051.3920669555664,
-			"y": 849.6,
+			"x": 4420,
+			"y": -400,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#b2f2bb",
-			"width": 237.2158660888672,
-			"height": 100.80000000000001,
-			"seed": 1714336561,
+			"backgroundColor": "transparent",
+			"width": 620,
+			"height": 620,
+			"seed": 339912703,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"id": "672cDQc0xRy2vhKySFEhN",
+					"type": "arrow"
+				}
+			],
+			"updated": 1715520142009,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "arrow",
+			"version": 227,
+			"versionNonce": 692845969,
+			"isDeleted": true,
+			"id": "672cDQc0xRy2vhKySFEhN",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4494.597187448574,
+			"y": -38.06932932855487,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "#e9ecef",
+			"width": 12.573196524748411,
+			"height": 2.549678206502122,
+			"seed": 1919809617,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1715430523419,
+			"updated": 1715520137320,
 			"link": null,
 			"locked": false,
-			"fontSize": 28,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "triangle",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					12.573196524748411,
+					-2.549678206502122
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 210,
+			"versionNonce": 1577783199,
+			"isDeleted": true,
+			"id": "ooiIwCr2",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4440,
+			"y": -80,
+			"strokeColor": "#1971c2",
+			"backgroundColor": "#e9ecef",
+			"width": 42.9417217779025,
+			"height": 32.97926648016531,
+			"seed": 1401734705,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "672cDQc0xRy2vhKySFEhN",
+					"type": "arrow"
+				}
+			],
+			"updated": 1715520135910,
+			"link": null,
+			"locked": false,
+			"fontSize": 13.74136103340221,
 			"fontFamily": 4,
-			"text": "ACK = true \nSequence number = 80\n8byte 데이터 전송",
-			"rawText": "ACK = true \nSequence number = 80\n8byte 데이터 전송",
+			"text": "Data \nfrom IP",
+			"rawText": "Data \nfrom IP",
 			"textAlign": "center",
-			"verticalAlign": "middle",
-			"containerId": "oBQasNczzFyQC9rtL3kTb",
-			"originalText": "ACK = true \nSequence number = 80\n8byte 데이터 전송",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Data \nfrom IP",
 			"lineHeight": 1.2
 		}
 	],
@@ -8641,10 +9081,10 @@ Host B는 데이터 송신 불가 ^4P56R3O4
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -2976.972382428589,
-		"scrollY": 550.3472139154701,
+		"scrollX": -4273.442181598817,
+		"scrollY": 796.3551028299206,
 		"zoom": {
-			"value": 0.9500000000000003
+			"value": 1.357537040304193
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,
