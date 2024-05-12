@@ -1,5 +1,5 @@
 ---
-title: TTFB
+title: Time to first byte
 draft: false
 tags:
   - Network
