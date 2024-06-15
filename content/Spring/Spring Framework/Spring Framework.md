@@ -12,7 +12,7 @@ aliases:
 
 >1. Provide choice at every level.
 
-개발자가 모든 수준에서 디자인을 선택할 수 있도록 합니다. 이는 설계 결정을 최대한 늦출 수 있도록 도와주게 됩니다. 이러한 철학 덕분에 [[Inversion Of Control|IoC]]와 같은 패턴을 적용해볼 수 있습니다.
+개발자가 모든 수준에서 디자인을 선택할 수 있도록 합니다. 이는 설계 결정을 최대한 늦출 수 있도록 도와주게 됩니다. 이러한 철학 덕분에 [[../../inbox/Inversion Of Control|IoC]]와 같은 패턴을 적용해볼 수 있습니다.
 
 > 2. Accommodate diverse perspectives.
 
@@ -33,6 +33,7 @@ API 디자인은 직관적이고 시간이 지나도 유지될 수 있도록 신
 # Core Techologies 
 Spring Framework 에서 제공하는 핵심 기술과 실제로 개발에 활용되는 기술들을 정리하였습니다.
 - [[Dependency Injection]] : [[../../inbox/Single Responsibility Principle|단일 책임 원칙]]과 [[../../inbox/Dependency Inversion Principle|의존성 역전 원칙]]을 지키기 위해 도입된 개념
-
+	- Spring Framework 레벨에서 싱글톤 객체를 제공하는 [[Bean]]
+	- Bean 들을 보다 효과적으로 관리하기 위한 [[Component Scan]]
 # 출처 
 - 공식 홈페이지: [Spring.io](https://spring.io/projects/spring-framework#overview)

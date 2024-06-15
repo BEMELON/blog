@@ -3,8 +3,10 @@ title: Bean
 draft: false
 tags:
   - Spring-Framework
+  - Annotation
 aliases:
   - Spring Bean
+  - "@Bean"
 ---
 # Bean 
 [[Spring Container]]는 하나 이상의 Bean 들을 관리함으로써 [[Dependency Injection|의존성 주입]]을 가능하게 합니다. 여기서 Bean은 **메타 데이터에 의해 정의되고 관리되는 객체들을 의미**합니다. 
@@ -13,7 +15,14 @@ aliases:
 1. **이름**은 사실상 유일해야 합니다. 동일한 이름을 가지는 Bean들이 있게 된다면 예상하지 못한 충돌이 발생할 수 있습니다.  
 2. **객체**는 유일하지 않아도 괜찮습니다. 하지만 여러 개의 객체를 가지는 경우, 실제로 필요한 Bean이 무엇인지 알기 힘듦으로 **이름과 함께 조회**가 되어야 합니다. 
 
-# Bean을 등록하는 방법 
+# Bean을 식별하는 방법 
+
+## XML 
+기존 레거시 시스템에서 자주 사용되는 방법으로 이해하고 있습니다. XML에서 Bean의 이름과 객체를 직접 지정하고 반드시 [[Spring Container]]에 등록되어야 합니다. 
+
+``` xml
+<bean id="memberRepository" class="hello.core.member.MemoryMemberRepository" />
+```
 
 ## @Bean 
 주로 **외부 라이브러리 클래스의 인스턴스를 등록하기 위해 사용**됩니다. 이렇게 직접 등록하는 Bean들은 [[Spring Configuration]] 에 의해 정의되어야 하며 [[Spring Container]]에 반드시 등록되어야 합니다. 
@@ -26,14 +35,11 @@ fun memberRepository(): MemberRepository {
 }
 ```
 
-## XML 
-기존 레거시 시스템에서 자주 사용되는 방법으로 이해하고 있습니다. XML에서 Bean의 이름과 객체를 직접 지정하고 반드시 [[Spring Container]]에 등록되어야 합니다. 
+- [[Spring Component|@Component]] : 내부적으로 `@Bean`으로 이루어져 있습니다.
+## Bean을 등록하는 방법 > [[Spring Configuration]]
 
-``` xml
-<bean id="memberRepository" class="hello.core.member.MemoryMemberRepository" />
-```
 
-## Bean을 조회 하는 방법 
+## Bean을 조회 하는 방법
 
 ### 1. 모든 Bean 조회하기 
 - [GitLab 소스코드](https://gitlab.com/kyudo.hwang/spring-core/-/blob/a333801fa8b9ec7532ac242d605834c882da9df6/src/test/kotlin/hello/core/beanfind/ApplicationContextInfoTest.kt#L14)
@@ -187,6 +193,66 @@ fun findBeanByParentType() {
 	}
 }
 ```
+
+## 7. Autowired 
+위에서의  6가지 방법들을 자동화한 방식이고, [[Dependency Injection|의존성 주입]]에 사용되는 방식입니다. 
+
+### 7-1. 생성자 주입 
+가장 **추천되는** 주입 방식입니다. 
+- 생성 과정에 딱 1번 호출되는 것이 보장됩니다.
+- **불편, 필수**의 관계에 적합합니다.
+- **순환 참조** 문제를 해결할 수 있습니다.
+
+```kotlin showLineNumbers
+@Component
+class OrderServiceImpl @Autowired constructor(
+    private val memberRepository: MemberRepository,
+    private val discountPolicy: DiscountPolicy
+) : OrderService
+```
+
+###  7-2. 변경자(Setter) 주입 
+**상황에 따라** 추천되는 주입 방식입니다.
+- **선택, 변경**의 관계에 적합합니다.
+- 생성자 주입과 겹친다면, 생성자 주입이 우선됩니다. 
+
+```kotlin showLineNumbers 
+@Component
+class OrderServiceImpl : OrderService {
+
+    @set:Autowired
+    private lateinit var memberRepository: MemberRepository
+
+    @set:Autowired
+    private lateinit var discountPolicy: DiscountPolicy
+
+}
+```
+
+### 7-3. 필드 주입 
+**상황에 따라** 추천되는 주입 방식입니다.
+- **불변, 필수**의 관계에 적합합니다.
+- 하지만, **외부 주입이 불가능하기 때문에 테스트에 어려움이 발생**합니다
+- **테스트 코드**와 같이 프로덕션과 무관한 곳에 적합합니다.
+- [[Spring Configuration|@Configuration]]에 적합할 수도 있습니다.
+
+```kotlin showLineNumbers 
+@Component
+class OrderServiceImpl : OrderService {
+
+    @Autowired
+    private lateinit var memberRepository: MemberRepository
+
+    @Autowired
+    private lateinit var discountPolicy: DiscountPolicy
+
+}
+```
+
+### 7-4. 메소드 주입
+**쓸 이유가 없다고 합니다.** 
+일반 메소드에 `@Autowired` 를 통해 주입 받는 방식입니다.
+
 # 출처
 - [Spring.io](https://docs.spring.io/spring-framework/reference/core/beans/definition.html)
 - [스프링 핵심 원리 - 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)

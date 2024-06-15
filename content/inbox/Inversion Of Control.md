@@ -1,6 +1,6 @@
 ---
 title: Inversion Of Control
-draft: false
+draft: true
 tags:
   - Spring-Framework
 aliases:
