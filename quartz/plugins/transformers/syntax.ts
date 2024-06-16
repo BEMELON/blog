@@ -1,5 +1,7 @@
 import { QuartzTransformerPlugin } from "../types"
 import rehypePrettyCode, { Options as CodeOptions, Theme as CodeTheme } from "rehype-pretty-code"
+import { transformerNotationDiff } from "shikiji-transformers"
+import { ShikijiTransformer } from 'shikiji';
 
 interface Theme extends Record<string, CodeTheme> {
   light: CodeTheme
@@ -9,6 +11,7 @@ interface Theme extends Record<string, CodeTheme> {
 interface Options {
   theme?: Theme
   keepBackground?: boolean
+  transformers?: any[]
 }
 
 const defaultOptions: Options = {
@@ -17,6 +20,7 @@ const defaultOptions: Options = {
     dark: "github-dark",
   },
   keepBackground: false,
+  transformers: [transformerNotationDiff()],
 }
 
 export const SyntaxHighlighting: QuartzTransformerPlugin<Options> = (
