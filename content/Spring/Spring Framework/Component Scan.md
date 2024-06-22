@@ -45,7 +45,7 @@ class OrderServiceImpl (
 ### 충돌 해결 : 매개변수 이름을 추가 식별자로 사용
 Component에 충돌이 발생하는 경우, Spring은  매개변수 이름을 Bean의 이름을 통하여 정확한 컴포넌트를 얻어올 수 있습니다. ([[Bean#5. Bean의 이름과 객체를 이용하여 조회|Bean의 이름과 객체를 이용하여 조회하는 방법]]을 이용하는 것 같습니다)
 
-```kotlin showLineNumbers ins={12} del={11}
+```kotlin showLineNumbers ins={12} del={11} ++{12} --{11}
 @Component
 class FixDiscountPolicy: DiscountPolicy 
 
