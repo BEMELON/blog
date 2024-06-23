@@ -4,6 +4,7 @@ draft: false
 tags:
   - Spring-Framework
   - Annotation
+  - Component
 aliases:
   - 컴포넌트 스캔
   - "@ComponentScan"

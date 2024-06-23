@@ -3,6 +3,7 @@ title: Bean
 draft: false
 tags:
   - Spring-Framework
+  - Bean
   - Annotation
 aliases:
   - Spring Bean
@@ -15,16 +16,16 @@ aliases:
 1. **이름**은 사실상 유일해야 합니다. 동일한 이름을 가지는 Bean들이 있게 된다면 예상하지 못한 충돌이 발생할 수 있습니다.  
 2. **객체**는 유일하지 않아도 괜찮습니다. 하지만 여러 개의 객체를 가지는 경우, 실제로 필요한 Bean이 무엇인지 알기 힘듦으로 **이름과 함께 조회**가 되어야 합니다. 
 
-# Bean을 식별하는 방법 
+## Bean을 식별하는 방법 
 
-## XML 
+### XML 
 기존 레거시 시스템에서 자주 사용되는 방법으로 이해하고 있습니다. XML에서 Bean의 이름과 객체를 직접 지정하고 반드시 [[Spring Container]]에 등록되어야 합니다. 
 
 ``` xml
 <bean id="memberRepository" class="hello.core.member.MemoryMemberRepository" />
 ```
 
-## @Bean 
+### @Bean 
 주로 **외부 라이브러리 클래스의 인스턴스를 등록하기 위해 사용**됩니다. 이렇게 직접 등록하는 Bean들은 [[Spring Configuration]] 에 의해 정의되어야 하며 [[Spring Container]]에 반드시 등록되어야 합니다. 
 
 `@Bean` [[../../Java/Annotation|Annotation]]을 통해 등록할 수 있습니다. 이 때, 이름은 기본적으로 메소드/클래스 이름을 따라가게 되며  매개변수를 통해 이를 커스텀할 수 있습니다. 커스텀된 정보들을 **BeanDefinition** 이라 하게 됩니다.
@@ -35,9 +36,16 @@ fun memberRepository(): MemberRepository {
 }
 ```
 
-- [[Spring Component|@Component]] : 내부적으로 `@Bean`으로 이루어져 있습니다.
-## Bean을 등록하는 방법 > [[Spring Configuration]]
+### [[Spring Component|@Component]]
+@Bean은 메소드 단위에서 등록을 한다면, [[Spring Component|@Component]]는 클래스 단위로 Bean을 등록할 수 있습니다. 가장 기본적인 단위이며 확장된 형태로 @Controlller, @Service, @Repository가 있습니다.
 
+## Bean을 Spring Container에 등록하는 방법
+1. [[Spring Configuration]] : Spring Configuration에 명시적으로 Bean을 등록할 수 있습니다.
+2. [[Spring Component]]: Spring Component를 통해 Configuration 외부에서 Bean을 등록할 수 있습니다.
+
+## Bean의 생명주기 
+- [[Bean Lifecycle]]에서 설명합니다.
+- [[Bean Scope]]에서 스코프 관점에 따른 Bean의 생명주기를 설명합니다.
 
 ## Bean을 조회 하는 방법
 
@@ -193,6 +201,7 @@ fun findBeanByParentType() {
 	}
 }
 ```
+
 
 # 출처
 - [Spring.io](https://docs.spring.io/spring-framework/reference/core/beans/definition.html)

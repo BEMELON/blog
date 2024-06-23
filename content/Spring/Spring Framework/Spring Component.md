@@ -5,6 +5,8 @@ tags:
   - Spring-Framework
   - Stereotype
   - Annotation
+  - Bean
+  - Component
 aliases:
   - "@Component"
 ---
