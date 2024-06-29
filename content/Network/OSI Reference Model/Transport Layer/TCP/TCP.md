@@ -18,11 +18,11 @@ aliases:
 - [[TCP 3-Way Handshaking]] : 서로 다른 노드 간 연결을 수립하는 방법
 - [[TCP 4-Way Handshaking]] : 서로 다른 노드 간 연결을 해제하는 방법 
 - [[TCP Flow Control]] :  TCP가 수신자에게 적절한 데이터를 보내는 방법 
-- [[TCP Congestion Control]] : TCP가 네트워크 상황을 고려해 데이터를 보내는 방법 
+- [[../../../../inbox/TCP Congestion Control]] : TCP가 네트워크 상황을 고려해 데이터를 보내는 방법 
 
 
 ## 최적화 기법 
-- [[TCP SACK]] :  네트워크 최적화
-- [[TCP Nagle's Algorithm]] : 응답을 누적해서 응답 
-- [[TCP Keep Alive]] : 연결 해제 시간을 늘림으로써 불필요한 Handshaking 방지 
-- [[TCP Fast Open]] : 연결에 대한 정보를 저장함으로써 재연결시 Handshaking 최적화
+- [[../../../../inbox/TCP SACK]] :  네트워크 최적화
+- [[../../../../inbox/TCP Nagle's Algorithm]] : 응답을 누적해서 응답 
+- [[../../../../inbox/TCP Keep Alive]] : 연결 해제 시간을 늘림으로써 불필요한 Handshaking 방지 
+- [[../../../../inbox/TCP Fast Open]] : 연결에 대한 정보를 저장함으로써 재연결시 Handshaking 최적화

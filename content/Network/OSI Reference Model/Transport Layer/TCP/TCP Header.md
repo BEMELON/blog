@@ -31,4 +31,4 @@ aliases:
 - [[TCP 3-Way Handshaking]] : `TCP flags`를 이용해 서로 다른 노드 간 연결을 수립하는 방법
 - [[TCP 4-Way Handshaking]] : `TCP flags`를 이용해 서로 다른 노드 간 연결을 해제하는 방법 
 - [[TCP Flow Control]] : `Receive Window`를 통해 TCP가 수신자에게 적절한 데이터를 보내는 방법 
-- [[TCP SACK]] : `Options` 필드를 통해 설정하여 네트워크 환경에서의 최적화
+- [[../../../../inbox/TCP SACK]] : `Options` 필드를 통해 설정하여 네트워크 환경에서의 최적화
