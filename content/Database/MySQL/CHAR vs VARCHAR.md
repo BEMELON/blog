@@ -1,6 +1,6 @@
 ---
 title: CHAR vs VARCHAR
-draft: true
+draft: false
 tags:
   - MySQL
 aliases:
