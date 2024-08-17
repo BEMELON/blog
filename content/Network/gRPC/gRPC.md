@@ -7,7 +7,7 @@ aliases:
 ---
 
 # gRPC 
-구글에서 만든 [[../../inbox/RPC|RPC]](Remote Procedure Call)의 종류입니다. RPC의 종류들은 [[../../inbox/IDL|IDL]]을 통해서 통신을 하게 되는데, gRPC는 [[Protocol Buffer/Protocol Buffer]]를 기본으로 사용하게 됩니다.
+구글에서 만든 [[../../inbox/RPC|RPC]](Remote Procedure Call)의 종류입니다. RPC의 종류들은 [[../../inbox/IDL|IDL]]을 통해서 통신을 하게 되는데, gRPC는 [[../gRPC/Protocol Buffer/Protocol Buffer]]를 기본으로 사용하게 됩니다.
 
 아래의 예시는 `gRPC`와 `ProtoBuf`를 이용한 `proto` 정의 예시입니다. 
 ```proto
