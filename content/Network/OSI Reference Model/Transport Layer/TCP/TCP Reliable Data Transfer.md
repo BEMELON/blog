@@ -4,7 +4,10 @@ draft: false
 tags:
   - TCP
 aliases:
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 # TCP Reliable Data Transfer 
 TCP는 혼잡한 네트워크 상황에서 데이터 송/수신의 신뢰성을 보장하기 위해 `Sequence Number`와 `Acknowledge Number` 를 이용하게 됩니다. 
 

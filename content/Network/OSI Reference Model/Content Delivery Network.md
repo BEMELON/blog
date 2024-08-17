@@ -5,7 +5,10 @@ tags:
   - Network
 aliases:
   - CDN
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 # Content Delivery Network
 분산된 서버들을 연결한 네트워크로써 **웹 컨텐츠의 복사본을 사용자에 가까운 곳**에 두게 된다. 이렇게 함으로써 웹 성능 및 속도를 향상 시킬 수 있게 한다. 
 

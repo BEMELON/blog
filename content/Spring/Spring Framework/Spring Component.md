@@ -9,7 +9,10 @@ tags:
   - Component
 aliases:
   - "@Component"
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 # Spring Component 
 Spring이 [[Bean]]의 속성을 결정하고 적절히 사용하기 위해서 스트레오(`Strereotype`) Annotation 을 사용하게 됩니다. 가장 대표적인 스트레오 타입으로는 `@Component`, `@Service`, `@Controller`, `@Repository`가 있을 수 있습니다. 그 중 `@Component`는 스트레오 타입의 가장 기본적인 타입이고, 나머지 스트레오 타입들은 `@Component`를 상속 받아 사용하게 됩니다. 
 

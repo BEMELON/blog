@@ -4,7 +4,10 @@ draft: false
 tags:
   - Spring-Framework
 aliases:
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 # Spring Framework 
 엔터프라이즈 어플리케이션을 개발하기 위한 필요한 **핵심 모델들을 제공하는 프레임워크**입니다. [Spring Project](https://spring.io/projects)에 설명되는 프로젝트들은 모두 Spring Framework를 기반으로 만들어졌습니다. 
 

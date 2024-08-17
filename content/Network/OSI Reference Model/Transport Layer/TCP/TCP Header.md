@@ -4,7 +4,10 @@ draft: false
 tags:
   - TCP
 aliases:
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 # TCP Header 
 ![[assets/tcp-header.excalidraw.light.png]]
 - `Source Port` : 송신자의 프로세스를 식별하는 데 사용되는 포트 번호

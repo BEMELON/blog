@@ -6,7 +6,10 @@ tags:
 aliases:
   - OSI 7 Layer
   - OSI 7계층
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 #  OSI Reference Model 
 `Open Systems Interconnection Reference Model`의 약어로, 우리는 흔히 **OSI 7계층**이라고 부르곤 한다. **개방된(`Open`) 시스템(`System`)들 간에 정보 교환(`Interconnection`)을 위해 상호적으로 적용 가능한 표준**을 정의함으로써 상호 연결될 수 있도록 한다. 
 

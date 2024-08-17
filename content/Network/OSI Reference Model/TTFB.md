@@ -5,6 +5,8 @@ tags:
   - Network
 aliases:
   - Time to first byte
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
 
 # Time to first byte 

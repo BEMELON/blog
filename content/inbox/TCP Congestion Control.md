@@ -6,7 +6,10 @@ tags:
   - Network
 aliases:
   - 혼잡제어
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 # TCP Congestion Control
 [[../Network/OSI Reference Model/Transport Layer/TCP/TCP Flow Control|흐름 제어]]는 수신자의 여유에 맞추어 데이터의 양을 조절하는 방법인 반면에, 혼잡 제어는 **네트워크 상황에 맞추어 데이터의 양을 조절하는 방법**입니다. 네트워크 상황을 알기 위해서는 무언가 단서가 필요한데, [[../Network/OSI Reference Model/Transport Layer/TCP/TCP Header|TCP Header]]에는 이를 알려줄만한 내용이 별도로 없습니다. 따라서, **혼잡 제어는  호스트가 스스로 조절(`self-clocking`)** 하는 방식을 사용하고 있습니다. 이를 조절하는 필드를 `Congestion Window`, 줄여서 `cwnd` 라고 부르곤 합니다
 

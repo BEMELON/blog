@@ -4,7 +4,10 @@ draft: false
 tags:
   - protobuf
 aliases:
+date: 2024-06-22 12:57
+last-modified: 2024-08-17 08:50
 ---
+
 # JSON과 gRPC 속도 차이 
 > [Benchmark](https://github.com/david-cao/gRPCBenchmarks) 에서의 결과를 번역 수준으로 살펴본 글입니다. 
 

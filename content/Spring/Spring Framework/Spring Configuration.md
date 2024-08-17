@@ -6,7 +6,10 @@ tags:
   - Annotation
 aliases:
   - "@Configuration"
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 # Spring Configuration
 [[Bean]]의 정보들을 실제 [[Spring Container]]에 등록하는 역할을 하고, `@Configuration` Annotation 을 통해 사용될 수 있습니다.
 

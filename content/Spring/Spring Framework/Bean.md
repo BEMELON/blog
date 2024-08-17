@@ -8,7 +8,10 @@ tags:
 aliases:
   - Spring Bean
   - "@Bean"
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 # Bean 
 [[Spring Container]]는 하나 이상의 Bean 들을 관리함으로써 [[Dependency Injection|의존성 주입]]을 가능하게 합니다. 여기서 Bean은 **메타 데이터에 의해 정의되고 관리되는 객체들을 의미**합니다. 
 

@@ -4,7 +4,10 @@ draft: false
 tags:
   - protobuf
 aliases:
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 # Protobuffer의 Field 
 Protobuffer에서의 Field 모두 Scalar 라고 합니다. **Scalar라 하면 사실상 원시값을 의미하게 되고, 이 뜻은 Null 이 없고 별도의 Default value 가 있음을 의미**합니다. 실제로 Defalut value가 존재합니다. ([gRPC Docs | Scalar Value Types](https://protobuf.dev/programming-guides/proto3/))
 

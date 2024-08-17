@@ -8,7 +8,10 @@ excalidraw-export-padding: 10
 excalidraw-plugin: parsed
 tags: [excalidraw]
 
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 

@@ -2,7 +2,10 @@
 title: Index
 draft: false
 tags:
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 # BEMELON's Tech Blog 
 
 ### 블로그의 목적  

@@ -4,7 +4,10 @@ draft: false
 tags:
   - Python
 aliases:
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 # \_\_all_\_ 
 > 모듈에서 메소드, 클래스, 변수만 선택하여 공개할 수 있는 방법 
 

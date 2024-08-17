@@ -6,7 +6,10 @@ tags:
 aliases:
   - 스프링 컨테이너
   - ApplicationContext
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 # Spring Container 
 [[Dependency Injection|의존성 주입]]을 제공하기 위해 [[Spring Framework]] 에서 제공하는 컨테이너입니다. 메타데이터를 기반으로 정의된 [[Bean]]을 찾아서 등록하게 됩니다. 
 

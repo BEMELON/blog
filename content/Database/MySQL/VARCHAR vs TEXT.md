@@ -3,10 +3,13 @@ title: VARCHAR vs TEXT
 draft: false
 tags:
   - MySQL
-aliases:
+aliases: 
+last-modified: 2024-08-17 08:50
+date: 2024-08-16 03:00
 ---
+
 # 문자열
-이전의 내용 [[CHAR vs VARCHAR]] 에서는 문자열 관련 칼럼에서 주로 사용되는 `CHAR`과 `VARCHAR`에서의 비교를 했다면, 문자열 관련해서 데이터를 저장할 수 있는 `TEXT`와 그와 유사한 `VARCHAR`를 함께 정리해보고자 합니다. 
+이전의 내용 [[CHAR vs VARCHAR]] 에서는 문자열 관련 칼럼에서 주로 사용되는 `CHAR`과 `VARCHAR`에서의 비교를 했다면, 문자열 관련해서 데이터를 저장할 수 있는 `TEXT`와 그와 유사한 `VARCHAR`를 함께 정리해보고자 합니다.
 
 ## VARCHAR
 ![[CHAR vs VARCHAR#VARCHAR|VARCHAR]] 

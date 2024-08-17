@@ -8,7 +8,10 @@ tags:
 aliases:
   - 컴포넌트 스캔
   - "@ComponentScan"
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 # Component Scan 
 [[Spring Component|@Component]] Annotation이 달려 있는 클래스들을 [[Bean]]으로 식별하고, 이를 자동으로 [[Spring Container]]에 등록하는 방법입니다. [[Spring Configuration|@Configuration]] 와 함께 `@ComponentScan` 으로 사용할 수 있습니다. 
 

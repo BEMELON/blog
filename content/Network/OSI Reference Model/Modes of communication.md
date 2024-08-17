@@ -4,7 +4,10 @@ draft: false
 tags:
   - Network
 aliases:
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 ## Modes of communication 
 통신(`commnunicaion`)에는 2가지의 종류가 있다. 연결 지향(`connection-mode`)와 비연결 지향(`connectionless-mode`). 계층은 **하위 계층으로부터 제공된 통신의 종류를 상위 계층에도 전달**해야 한다.
 

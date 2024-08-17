@@ -4,7 +4,10 @@ draft: false
 tags:
   - protobuf
 aliases:
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 ### Serialization 
 > 네트워크 상에 데이터를 송/수신 하기 위해 변환된 데이터의 크기와 속도를 비교합니다 
 

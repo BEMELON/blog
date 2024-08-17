@@ -6,7 +6,10 @@ tags:
 aliases:
   - 의존성 주입
   - DI
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 # Dependency Injection 
 [[../../inbox/Single Responsibility Principle|단일 책임 원칙]]과 [[../../inbox/Dependency Inversion Principle|의존성 역전 원칙]]을 지키기 위해 도입된 개념입니다. **의존성 주입**으로 더욱 알려져 있습니다. 대부분의 객체는 다른 객체를 의존하게 됩니다. 이 때, 의존성을 외부에서 주입하는 것을 의미하게 됩니다. 
 

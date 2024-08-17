@@ -51,6 +51,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options> | und
                 modified ||= st.mtimeMs
               } else if (source === "frontmatter" && file.data.frontmatter) {
                 created ||= file.data.frontmatter.date as MaybeDate
+                console.log(created)
                 modified ||= file.data.frontmatter.lastmod as MaybeDate
                 modified ||= file.data.frontmatter.updated as MaybeDate
                 modified ||= file.data.frontmatter["last-modified"] as MaybeDate
@@ -65,7 +66,6 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options> | und
 
                 try {
                   modified ||= await repo.getFileLatestModifiedDateAsync(file.data.filePath!)
-                  console.log(`file : ${file.data.filePath!}, modified : ${modified}`)
                 } catch {
                   console.log(
                     chalk.yellow(

@@ -5,7 +5,10 @@ tags:
   - TCP
 aliases:
   - 4-Way Handshaking
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 # TCP 4-Way Handshaking
 TCP는 [[../../Modes of communication#연결 지향(`connection-mode`) communication|연결 지향 프로토콜]]의 종류이기 때문에 연결 수립 과정으로 [[TCP 3-Way Handshaking|3-Way Handshaking]]이 있었고, 연결을 해제하는 과정에서도 절차가 필요하다. 해제 과정에서는 4-Way Handshaking 이 진행된다. 
 

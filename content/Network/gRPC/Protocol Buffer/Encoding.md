@@ -5,7 +5,10 @@ tags:
   - protobuf
   - protoscope
 aliases:
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 # Encoding 
 > Protobuf로 작성된 내용을 Binary 형태로 변환하는 과정 
 

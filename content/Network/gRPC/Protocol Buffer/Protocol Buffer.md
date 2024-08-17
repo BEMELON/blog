@@ -6,7 +6,10 @@ tags:
   - protobuf
 aliases:
   - ProtoBuf
+date: 2024-08-17 05:15
+last-modified: 2024-08-17 08:50
 ---
+
 # Protocol Buffer 
 [[../../../inbox/IDL|IDL]] 종류 중 하나로써, [[../gRPC]]에서 기본으로 사용하는 언어(?)입니다. 구글 주도하에 개발되었으며, **XML처럼 구조화된 데이터를 가지고 있지만, 더 단순하고 적은 용량을 차지**합니다
 
