@@ -23,7 +23,7 @@ last-modified: 2024-08-17 08:50
 
 > 3. Maintain strong backward compatibility.
 
-강력한 [[Backward Compatibility]]를 유지하도록 설계되어 있습니다. 새로운 기능을 추가하면서도 기존 기능의 호환성을 유지하려고 노력하고, 이를 통해 Spring을 기반으로 하는 애플리케이션과 라이브러리르 유지 관리하기 쉽게 해줍니다. 
+강력한 [[../../Software Engineering/Backward Compatibility]]를 유지하도록 설계되어 있습니다. 새로운 기능을 추가하면서도 기존 기능의 호환성을 유지하려고 노력하고, 이를 통해 Spring을 기반으로 하는 애플리케이션과 라이브러리르 유지 관리하기 쉽게 해줍니다. 
 
 > 4. Care about API design.
 
