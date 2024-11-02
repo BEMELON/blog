@@ -1,6 +1,6 @@
 ---
 date: 2024-08-17 05:15
-last-modified: 2024-11-02 04:55
+last-modified: 2024-11-02 05:35
 title: Backward Compatibility
 draft: false
 tags:
@@ -29,4 +29,4 @@ aliases:
 이 세 가지 호환성 중 하나라도 지켜지지 않으면 하위 호환성이 깨지게 됩니다. 다만, 모든 오픈소스 프로젝트나 패키지들이 이러한 호환성을 충분히 공지해주지는 않기 때문에, 업데이트 시에는 릴리스 노트를 꼼꼼히 확인하는 것이 중요합니다. 
 
 # Reference 
- - [JDK]([OpenJDK](https://wiki.openjdk.org/display/csr/Kinds+of+Compatibility)
+ - [JDK](https://wiki.openjdk.org/display/csr/Kinds+of+Compatibility)
